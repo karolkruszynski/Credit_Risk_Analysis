@@ -28,3 +28,4 @@ print(purpose_data.describe())
 
 # Count credit by purpose
 print(purpose_data['purpose'].value_counts())
+# Most credit was taken for business purpose, fewest for retraining and other purpose.
