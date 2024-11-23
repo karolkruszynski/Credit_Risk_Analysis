@@ -1,7 +1,7 @@
 # IMPORTS
 import pandas as pd
 import numpy as np
-import matplotlib as plot
+import matplotlib.pyplot as plt
 
 # Loading Data
 df = pd.read_csv('credit_risk_data.csv')
@@ -44,3 +44,25 @@ for name, group in df.groupby('purpose'):
 df = df[~df['purpose'].str.contains('other',na=False)]
 purpose_data = df.groupby('purpose')
 print(purpose_data['purpose'].unique())
+
+# Visualize data of mean, max, min amount of credit by purpose
+
+# MEAN AMOUNT OF CREDIT BY PURPOSE
+# Create a data with mean values by purpose
+mean_credit_amount = df.groupby('purpose')['credit_amount'].mean().sort_values(ascending=False)
+# Sorted data with index purpose searched by previous data .loc[]
+sorted_data = df.set_index('purpose').loc[mean_credit_amount.index]
+
+# Creating plot
+plt.figure(figsize=(12, 6))
+sorted_data.boxplot(column='credit_amount', by='purpose', vert=False, grid=True, patch_artist=True)
+
+# Plot Adjustments
+plt.title('Distribution of loan amounts by purpose')
+plt.suptitle('')  # Usunięcie domyślnego tytułu nad wykresem
+plt.xlabel('Credit amount')
+plt.ylabel('Purpose of the credit')
+plt.tight_layout()
+
+# Show plot
+plt.show()
