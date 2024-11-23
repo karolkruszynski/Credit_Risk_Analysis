@@ -31,6 +31,6 @@ print(purpose_data['purpose'].value_counts())
 # Most credit was taken for business purpose, fewest for retraining and other purpose.
 
 # Mean, min, max credit amount by purpose distribution
-print(purpose_data['credit_amount'].mean())
-print(purpose_data['credit_amount'].max())
-print(purpose_data['credit_amount'].min())
+print(purpose_data['credit_amount'].mean().sort_values(ascending=False))
+print(purpose_data['credit_amount'].max().sort_values(ascending=False))
+print(purpose_data['credit_amount'].min().sort_values(ascending=False))
