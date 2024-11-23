@@ -25,3 +25,6 @@ print(df.isna().sum())
 # Grouped data by purpose
 purpose_data = df.groupby('purpose')
 print(purpose_data.describe())
+
+# Count credit by purpose
+print(purpose_data['purpose'].value_counts())
