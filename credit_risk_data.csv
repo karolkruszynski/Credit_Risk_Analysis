@@ -1,0 +1,1001 @@
+,checking_status,duration,credit_history,purpose,credit_amount,savings_status,employment,installment_commitment,gender,other_parties,residence_since,property_magnitude,age,other_payment_plans,housing,existing_credits,job,num_dependents,own_telephone,foreign_worker,class
+0,Low,6.0,,radio/tv,1169.0,Unknown,Very Long,4.0,Male,none,4.0,real estate,67.0,none,own,2.0,Qualified,1.0,yes,yes,good
+1,Medium,48.0,,radio/tv,5951.0,Very Low,Medium,2.0,Female,none,2.0,real estate,22.0,none,own,1.0,Qualified,1.0,none,yes,bad
+2,Unknown,12.0,,education,2096.0,Very Low,Long,2.0,Male,none,3.0,real estate,49.0,none,own,1.0,Unqualified,2.0,none,yes,good
+3,Low,42.0,,furniture/equipment,7882.0,Very Low,Long,2.0,Male,guarantor,4.0,life insurance,45.0,none,for free,1.0,Qualified,2.0,none,yes,good
+4,Low,24.0,,new car,4870.0,Very Low,Medium,3.0,Male,none,4.0,no known property,53.0,none,for free,2.0,Qualified,2.0,none,yes,bad
+5,Unknown,36.0,,education,9055.0,Unknown,Medium,2.0,Male,none,4.0,no known property,35.0,none,for free,1.0,Unqualified,2.0,yes,yes,good
+6,Unknown,24.0,,furniture/equipment,2835.0,Medium,Very Long,3.0,Male,none,4.0,life insurance,53.0,none,own,1.0,Qualified,1.0,none,yes,good
+7,Medium,36.0,,used car,6948.0,Very Low,Medium,2.0,Male,none,2.0,car,35.0,none,rent,1.0,High Qualified,1.0,yes,yes,good
+8,Unknown,12.0,,radio/tv,3059.0,High,Long,2.0,Male,none,4.0,real estate,61.0,none,own,1.0,Unqualified,1.0,none,yes,good
+9,Medium,30.0,,new car,5234.0,Very Low,,4.0,Male,none,2.0,car,28.0,none,own,2.0,High Qualified,1.0,none,yes,bad
+10,Medium,12.0,,new car,1295.0,Very Low,Short,3.0,Female,none,1.0,car,25.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+11,Low,48.0,,business,4308.0,Very Low,Short,3.0,Female,none,4.0,life insurance,24.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+12,Medium,12.0,,radio/tv,1567.0,Very Low,Medium,1.0,Female,none,1.0,car,22.0,none,own,1.0,Qualified,1.0,yes,yes,good
+13,Low,24.0,,new car,1199.0,Very Low,Very Long,4.0,Male,none,4.0,car,60.0,none,own,2.0,Unqualified,1.0,none,yes,bad
+14,Low,15.0,,new car,1403.0,Very Low,Medium,2.0,Female,none,4.0,car,28.0,none,rent,1.0,Qualified,1.0,none,yes,good
+15,Low,24.0,,radio/tv,1282.0,Low,Medium,4.0,Female,none,2.0,car,32.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+16,Unknown,24.0,,radio/tv,2424.0,Unknown,Very Long,4.0,Male,none,4.0,life insurance,53.0,none,own,2.0,Qualified,1.0,none,yes,good
+17,Low,30.0,no credits,business,8072.0,Unknown,Short,2.0,Male,none,3.0,car,25.0,bank,own,3.0,Qualified,1.0,none,yes,good
+18,Medium,24.0,,used car,12579.0,Very Low,Very Long,4.0,Female,none,2.0,no known property,44.0,none,for free,1.0,High Qualified,1.0,yes,yes,bad
+19,Unknown,24.0,,radio/tv,3430.0,Medium,Very Long,3.0,Male,none,2.0,car,31.0,none,own,1.0,Qualified,2.0,yes,yes,good
+20,Unknown,9.0,,new car,2134.0,Very Low,Medium,4.0,Male,none,4.0,car,48.0,none,own,3.0,Qualified,1.0,yes,yes,good
+21,Low,6.0,,radio/tv,2647.0,Medium,Medium,2.0,Male,none,3.0,real estate,44.0,none,rent,1.0,Qualified,2.0,none,yes,good
+22,Low,10.0,,new car,2241.0,Very Low,Short,1.0,Male,none,3.0,real estate,48.0,none,rent,2.0,Unqualified,2.0,none,no,good
+23,Medium,12.0,,used car,1804.0,Low,Short,3.0,Male,none,4.0,life insurance,44.0,none,own,1.0,Qualified,1.0,none,yes,good
+24,Unknown,10.0,,furniture/equipment,2069.0,Unknown,Medium,2.0,Male,none,1.0,car,26.0,none,own,2.0,Qualified,1.0,none,no,good
+25,Low,6.0,,furniture/equipment,1374.0,Very Low,Medium,1.0,Male,none,2.0,real estate,36.0,bank,own,1.0,Unqualified,1.0,yes,yes,good
+26,Unknown,6.0,no credits,radio/tv,426.0,Very Low,Very Long,4.0,Male,none,4.0,car,39.0,none,own,1.0,Unqualified,1.0,none,yes,good
+27,High,12.0,,radio/tv,409.0,High,Medium,3.0,Female,none,3.0,real estate,42.0,none,rent,2.0,Qualified,1.0,none,yes,good
+28,Medium,7.0,,radio/tv,2415.0,Very Low,Medium,3.0,Male,guarantor,2.0,real estate,34.0,none,own,1.0,Qualified,1.0,none,yes,good
+29,Low,60.0,,business,6836.0,Very Low,Very Long,3.0,Male,none,4.0,no known property,63.0,none,own,2.0,Qualified,1.0,yes,yes,bad
+30,Medium,18.0,,business,1913.0,High,Short,3.0,Male,none,3.0,real estate,36.0,bank,own,1.0,Qualified,1.0,yes,yes,good
+31,Low,24.0,,furniture/equipment,4020.0,Very Low,Medium,2.0,Male,none,2.0,car,27.0,stores,own,1.0,Qualified,1.0,none,yes,good
+32,Medium,18.0,,new car,5866.0,Low,Medium,2.0,Male,none,2.0,car,30.0,none,own,2.0,Qualified,1.0,yes,yes,good
+33,Unknown,12.0,,business,1264.0,Unknown,Very Long,4.0,Male,none,4.0,no known property,57.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+34,High,12.0,,furniture/equipment,1474.0,Very Low,Short,4.0,Female,none,1.0,life insurance,33.0,bank,own,1.0,High Qualified,1.0,yes,yes,good
+35,Medium,45.0,,radio/tv,4746.0,Very Low,Short,4.0,Male,none,2.0,life insurance,25.0,none,own,2.0,Unqualified,1.0,none,yes,bad
+36,Unknown,48.0,,education,6110.0,Very Low,Medium,1.0,Male,none,3.0,no known property,31.0,bank,for free,1.0,Qualified,1.0,yes,yes,good
+37,High,18.0,,radio/tv,2100.0,Very Low,Medium,4.0,Male,co applicant,2.0,real estate,37.0,stores,own,1.0,Qualified,1.0,none,yes,bad
+38,High,10.0,,domestic appliance,1225.0,Very Low,Medium,2.0,Male,none,2.0,car,37.0,none,own,1.0,Qualified,1.0,yes,yes,good
+39,Medium,9.0,,radio/tv,458.0,Very Low,Medium,4.0,Male,none,3.0,real estate,24.0,none,own,1.0,Qualified,1.0,none,yes,good
+40,Unknown,30.0,,radio/tv,2333.0,Medium,Very Long,4.0,Male,none,2.0,car,30.0,bank,own,1.0,High Qualified,1.0,none,yes,good
+41,Medium,12.0,,radio/tv,1158.0,Medium,Medium,3.0,Male,none,1.0,car,26.0,none,own,1.0,Qualified,1.0,yes,yes,good
+42,Medium,18.0,,repairs,6204.0,Very Low,Medium,2.0,Male,none,4.0,real estate,44.0,none,own,1.0,Unqualified,2.0,yes,yes,good
+43,Low,30.0,,used car,6187.0,Low,Long,1.0,Male,none,4.0,car,24.0,none,rent,2.0,Qualified,1.0,none,yes,good
+44,Low,48.0,,used car,6143.0,Very Low,Very Long,4.0,Female,none,4.0,no known property,58.0,stores,for free,2.0,Unqualified,1.0,none,yes,bad
+45,Unknown,11.0,,new car,1393.0,Very Low,Short,4.0,Female,none,4.0,car,35.0,none,own,2.0,High Qualified,1.0,none,yes,good
+46,Unknown,36.0,,radio/tv,2299.0,Medium,Very Long,4.0,Male,none,4.0,car,39.0,none,own,1.0,Qualified,1.0,none,yes,good
+47,Low,6.0,,used car,1352.0,Medium,,1.0,Female,none,2.0,life insurance,23.0,none,rent,1.0,Unemployed,1.0,yes,yes,good
+48,Unknown,11.0,,new car,7228.0,Very Low,Medium,1.0,Male,none,4.0,life insurance,39.0,none,own,2.0,Unqualified,1.0,none,yes,good
+49,Unknown,12.0,,radio/tv,2073.0,Low,Medium,4.0,Female,co applicant,2.0,real estate,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+50,Medium,24.0,,furniture/equipment,2333.0,Unknown,Short,4.0,Male,none,2.0,life insurance,29.0,bank,own,1.0,Unqualified,1.0,none,yes,good
+51,Medium,27.0,,used car,5965.0,Very Low,Very Long,1.0,Male,none,2.0,car,30.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+52,Unknown,12.0,,radio/tv,1262.0,Very Low,Medium,3.0,Male,none,2.0,car,25.0,none,own,1.0,Qualified,1.0,none,yes,good
+53,Unknown,18.0,,used car,3378.0,Unknown,Medium,2.0,Male,none,1.0,life insurance,31.0,none,own,1.0,Qualified,1.0,yes,yes,good
+54,Medium,36.0,,new car,2225.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,57.0,bank,for free,2.0,Qualified,1.0,yes,yes,bad
+55,Unknown,6.0,,new car,783.0,Unknown,Medium,1.0,Male,guarantor,2.0,real estate,26.0,stores,own,1.0,Unqualified,2.0,none,yes,good
+56,Medium,12.0,,radio/tv,6468.0,Unknown,,2.0,Male,none,1.0,no known property,52.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+57,Unknown,36.0,,radio/tv,9566.0,Very Low,Medium,2.0,Female,none,2.0,car,31.0,stores,own,2.0,Qualified,1.0,none,yes,good
+58,High,18.0,,new car,1961.0,Very Low,Very Long,3.0,Female,none,2.0,car,23.0,none,own,1.0,High Qualified,1.0,none,yes,good
+59,Low,36.0,,furniture/equipment,6229.0,Very Low,Short,4.0,Female,co applicant,4.0,no known property,23.0,none,rent,2.0,Unqualified,1.0,yes,yes,bad
+60,Medium,9.0,,business,1391.0,Very Low,Medium,2.0,Male,none,1.0,real estate,27.0,bank,own,1.0,Qualified,1.0,yes,yes,good
+61,Medium,15.0,,radio/tv,1537.0,Unknown,Very Long,4.0,Male,guarantor,4.0,real estate,50.0,none,own,2.0,Qualified,1.0,yes,yes,good
+62,Medium,36.0,no credits,business,1953.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,61.0,none,for free,1.0,High Qualified,1.0,yes,yes,bad
+63,Medium,48.0,no credits,business,14421.0,Very Low,Medium,2.0,Male,none,2.0,car,25.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+64,Unknown,24.0,,radio/tv,3181.0,Very Low,Short,4.0,Female,none,4.0,life insurance,26.0,none,own,1.0,Qualified,1.0,yes,yes,good
+65,Unknown,27.0,,repairs,5190.0,Unknown,Very Long,4.0,Male,none,4.0,life insurance,48.0,none,own,4.0,Qualified,2.0,yes,yes,good
+66,Unknown,12.0,,radio/tv,2171.0,Very Low,Short,2.0,Female,none,2.0,car,29.0,bank,own,1.0,Qualified,1.0,none,yes,good
+67,Medium,12.0,,new car,1007.0,High,Medium,4.0,Male,none,1.0,real estate,22.0,none,own,1.0,Qualified,1.0,none,yes,good
+68,Unknown,36.0,,education,1819.0,Very Low,Medium,4.0,Male,none,4.0,no known property,37.0,stores,for free,1.0,Qualified,1.0,yes,yes,bad
+69,Unknown,36.0,,radio/tv,2394.0,Unknown,Medium,4.0,Female,none,4.0,car,25.0,none,own,1.0,Qualified,1.0,none,yes,good
+70,Unknown,36.0,,used car,8133.0,Very Low,Medium,1.0,Female,none,2.0,life insurance,30.0,bank,own,1.0,Qualified,1.0,none,yes,good
+71,Unknown,7.0,,radio/tv,730.0,Unknown,Very Long,4.0,Male,none,2.0,life insurance,46.0,none,rent,2.0,Unqualified,1.0,yes,yes,good
+72,Low,8.0,,other,1164.0,Very Low,Very Long,3.0,Male,none,4.0,no known property,51.0,bank,for free,2.0,High Qualified,2.0,yes,yes,good
+73,Medium,42.0,,business,5954.0,Very Low,Long,2.0,Female,none,1.0,real estate,41.0,bank,own,2.0,Unqualified,1.0,none,yes,good
+74,Low,36.0,,education,1977.0,Unknown,Very Long,4.0,Male,none,4.0,no known property,40.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+75,Low,12.0,,used car,1526.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,66.0,none,for free,2.0,High Qualified,1.0,none,yes,good
+76,Low,42.0,,radio/tv,3965.0,Very Low,Short,4.0,Male,none,3.0,car,34.0,none,own,1.0,Qualified,1.0,none,yes,bad
+77,Medium,11.0,,radio/tv,4771.0,Very Low,Long,2.0,Male,none,4.0,life insurance,51.0,none,own,1.0,Qualified,1.0,none,yes,good
+78,Unknown,54.0,no credits,used car,9436.0,Unknown,Medium,2.0,Male,none,2.0,life insurance,39.0,none,own,1.0,Unqualified,2.0,none,yes,good
+79,Medium,30.0,,furniture/equipment,3832.0,Very Low,Short,2.0,Male,none,1.0,life insurance,22.0,none,own,1.0,Qualified,1.0,none,yes,good
+80,Unknown,24.0,,radio/tv,5943.0,Unknown,Short,1.0,Female,none,1.0,car,44.0,none,own,2.0,Qualified,1.0,yes,yes,bad
+81,Unknown,15.0,,radio/tv,1213.0,Medium,Very Long,4.0,Male,none,3.0,life insurance,47.0,stores,own,1.0,Qualified,1.0,yes,yes,good
+82,Unknown,18.0,,business,1568.0,Low,Medium,3.0,Female,none,4.0,life insurance,24.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+83,Low,24.0,,other,1755.0,Very Low,Very Long,4.0,Female,guarantor,4.0,real estate,58.0,none,own,1.0,Unqualified,1.0,yes,yes,good
+84,Low,10.0,,radio/tv,2315.0,Very Low,Very Long,3.0,Male,none,4.0,real estate,52.0,none,own,1.0,Unqualified,1.0,none,yes,good
+85,Unknown,12.0,,business,1412.0,Very Low,Medium,4.0,Female,guarantor,2.0,real estate,29.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+86,Medium,18.0,,furniture/equipment,1295.0,Very Low,Short,4.0,Female,none,1.0,life insurance,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+87,Medium,36.0,,education,12612.0,Low,Medium,1.0,Male,none,4.0,no known property,47.0,none,for free,1.0,Qualified,2.0,yes,yes,bad
+88,Low,18.0,,new car,2249.0,Low,Long,4.0,Male,none,3.0,car,30.0,none,own,1.0,High Qualified,2.0,yes,yes,good
+89,Low,12.0,no credits,repairs,1108.0,Very Low,Long,4.0,Male,none,3.0,real estate,28.0,none,own,2.0,Qualified,1.0,none,yes,bad
+90,Unknown,12.0,,radio/tv,618.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,56.0,none,own,1.0,Qualified,1.0,none,yes,good
+91,Low,12.0,,used car,1409.0,Very Low,Very Long,4.0,Male,none,3.0,real estate,54.0,none,own,1.0,Qualified,1.0,none,yes,good
+92,Unknown,12.0,,radio/tv,797.0,Unknown,Very Long,4.0,Female,none,3.0,life insurance,33.0,bank,own,1.0,Unqualified,2.0,none,yes,bad
+93,High,24.0,,furniture/equipment,3617.0,Unknown,Very Long,4.0,Male,co applicant,4.0,no known property,20.0,none,rent,2.0,Qualified,1.0,none,yes,good
+94,Medium,12.0,,new car,1318.0,High,Very Long,4.0,Male,none,4.0,real estate,54.0,none,own,1.0,Qualified,1.0,yes,yes,good
+95,Medium,54.0,no credits,business,15945.0,Very Low,Short,3.0,Male,none,4.0,no known property,58.0,none,rent,1.0,Qualified,1.0,yes,yes,bad
+96,Unknown,12.0,,education,2012.0,Unknown,Long,4.0,Female,none,2.0,car,61.0,none,own,1.0,Qualified,1.0,none,yes,good
+97,Medium,18.0,,business,2622.0,Low,Medium,4.0,Male,none,4.0,car,34.0,none,own,1.0,Qualified,1.0,none,yes,good
+98,Medium,36.0,,radio/tv,2337.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,36.0,none,own,1.0,Qualified,1.0,none,yes,good
+99,Medium,20.0,,used car,7057.0,Unknown,Long,3.0,Male,none,4.0,life insurance,36.0,bank,rent,2.0,High Qualified,2.0,yes,yes,good
+100,Unknown,24.0,,new car,1469.0,Low,Very Long,4.0,Male,none,4.0,real estate,41.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+101,Medium,36.0,,radio/tv,2323.0,Very Low,Long,4.0,Male,none,4.0,car,24.0,none,rent,1.0,Qualified,1.0,none,yes,good
+102,Unknown,6.0,,radio/tv,932.0,Very Low,Medium,3.0,Female,none,2.0,real estate,24.0,none,own,1.0,Qualified,1.0,none,yes,good
+103,Medium,9.0,,furniture/equipment,1919.0,Very Low,Long,4.0,Male,none,3.0,car,35.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+104,Unknown,12.0,,used car,2445.0,Unknown,Short,2.0,Male,none,4.0,car,26.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+105,Medium,24.0,,other,11938.0,Very Low,Medium,2.0,Male,co applicant,3.0,car,39.0,none,own,2.0,High Qualified,2.0,yes,yes,bad
+106,Unknown,18.0,,new car,6458.0,Very Low,Very Long,2.0,Male,none,4.0,no known property,39.0,bank,own,2.0,High Qualified,2.0,yes,yes,bad
+107,Medium,12.0,,new car,6078.0,Very Low,Long,2.0,Male,none,2.0,car,32.0,none,own,1.0,Qualified,1.0,none,yes,good
+108,Low,24.0,,furniture/equipment,7721.0,Unknown,Short,1.0,Female,none,2.0,life insurance,30.0,none,own,1.0,Qualified,1.0,yes,no,good
+109,Medium,14.0,,business,1410.0,Medium,Very Long,1.0,Male,none,2.0,real estate,35.0,none,own,1.0,Qualified,1.0,yes,yes,good
+110,Medium,6.0,,business,1449.0,Low,Very Long,1.0,Male,none,2.0,car,31.0,bank,own,2.0,Qualified,2.0,none,yes,good
+111,High,15.0,,education,392.0,Very Low,Short,4.0,Female,none,4.0,life insurance,23.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+112,Medium,18.0,,new car,6260.0,Very Low,Long,3.0,Male,none,3.0,real estate,28.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+113,Unknown,36.0,,new car,7855.0,Very Low,Medium,4.0,Female,none,2.0,real estate,25.0,stores,own,2.0,Qualified,1.0,yes,yes,bad
+114,Low,12.0,,radio/tv,1680.0,Medium,Very Long,3.0,Male,none,1.0,real estate,35.0,none,own,1.0,Qualified,1.0,none,yes,good
+115,Unknown,48.0,,radio/tv,3578.0,Unknown,Very Long,4.0,Male,none,1.0,real estate,47.0,none,own,1.0,Qualified,1.0,yes,yes,good
+116,Low,42.0,,radio/tv,7174.0,Unknown,Long,4.0,Female,none,3.0,car,30.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+117,Low,10.0,,furniture/equipment,2132.0,Unknown,Short,2.0,Female,co applicant,3.0,real estate,27.0,none,rent,2.0,Qualified,1.0,none,no,good
+118,Low,33.0,,furniture/equipment,4281.0,Medium,Medium,1.0,Female,none,4.0,car,23.0,none,own,2.0,Qualified,1.0,none,yes,bad
+119,Medium,12.0,,new car,2366.0,Medium,Long,3.0,Male,none,3.0,car,36.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+120,Low,21.0,,radio/tv,1835.0,Very Low,Medium,3.0,Female,none,2.0,real estate,25.0,none,own,2.0,Qualified,1.0,yes,yes,bad
+121,Unknown,24.0,,used car,3868.0,Very Low,Very Long,4.0,Female,none,2.0,car,41.0,none,rent,2.0,High Qualified,1.0,yes,yes,good
+122,Unknown,12.0,,furniture/equipment,1768.0,Very Low,Medium,3.0,Male,none,2.0,real estate,24.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+123,High,10.0,,new car,781.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,63.0,none,for free,2.0,Qualified,1.0,yes,yes,good
+124,Medium,18.0,,furniture/equipment,1924.0,Unknown,Short,4.0,Female,none,3.0,real estate,27.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+125,Low,12.0,,new car,2121.0,Very Low,Medium,4.0,Male,none,2.0,life insurance,30.0,none,own,2.0,Qualified,1.0,none,yes,good
+126,Low,12.0,,radio/tv,701.0,Very Low,Medium,4.0,Male,none,2.0,real estate,40.0,none,own,1.0,Unqualified,1.0,none,yes,good
+127,Medium,12.0,,repairs,639.0,Very Low,Medium,4.0,Male,none,2.0,car,30.0,none,own,1.0,Qualified,1.0,none,yes,bad
+128,Medium,12.0,,used car,1860.0,Very Low,,4.0,Male,none,2.0,car,34.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+129,Low,12.0,,new car,3499.0,Very Low,Medium,3.0,Female,co applicant,2.0,real estate,29.0,none,own,2.0,Qualified,1.0,none,yes,bad
+130,Medium,48.0,,new car,8487.0,Unknown,Long,1.0,Female,none,2.0,car,24.0,none,own,1.0,Qualified,1.0,none,yes,good
+131,Low,36.0,,education,6887.0,Very Low,Medium,4.0,Male,none,3.0,life insurance,29.0,stores,own,1.0,Qualified,1.0,yes,yes,bad
+132,Unknown,15.0,,furniture/equipment,2708.0,Very Low,Short,2.0,Male,none,3.0,life insurance,27.0,bank,own,2.0,Unqualified,1.0,none,yes,good
+133,Unknown,18.0,,furniture/equipment,1984.0,Very Low,Medium,4.0,Male,none,4.0,no known property,47.0,bank,for free,2.0,Qualified,1.0,none,yes,good
+134,Unknown,60.0,,radio/tv,10144.0,Low,Long,2.0,Female,none,4.0,real estate,21.0,none,own,1.0,Qualified,1.0,yes,yes,good
+135,Unknown,12.0,,radio/tv,1240.0,Unknown,Very Long,4.0,Female,none,2.0,real estate,38.0,none,own,2.0,Qualified,1.0,yes,yes,good
+136,Unknown,27.0,,used car,8613.0,High,Medium,2.0,Male,none,2.0,car,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+137,Medium,12.0,,radio/tv,766.0,Medium,Medium,4.0,Male,none,3.0,real estate,66.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+138,Medium,15.0,,radio/tv,2728.0,Unknown,Long,4.0,Male,guarantor,2.0,real estate,35.0,bank,own,3.0,Qualified,1.0,yes,yes,good
+139,High,12.0,,radio/tv,1881.0,Very Low,Medium,2.0,Female,none,2.0,car,44.0,none,rent,1.0,Unqualified,1.0,yes,yes,good
+140,High,6.0,,new car,709.0,High,Short,2.0,Male,none,2.0,real estate,27.0,none,own,1.0,Unemployed,1.0,none,no,good
+141,Medium,36.0,,radio/tv,4795.0,Very Low,Short,4.0,Female,none,1.0,no known property,30.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+142,Low,27.0,,radio/tv,3416.0,Very Low,Medium,3.0,Male,none,2.0,car,27.0,none,own,1.0,High Qualified,1.0,none,yes,good
+143,Low,18.0,,furniture/equipment,2462.0,Very Low,Medium,2.0,Male,none,2.0,car,22.0,none,own,1.0,Qualified,1.0,none,yes,bad
+144,Unknown,21.0,,furniture/equipment,2288.0,Very Low,Short,4.0,Female,none,4.0,life insurance,23.0,none,own,1.0,Qualified,1.0,yes,yes,good
+145,Medium,48.0,,business,3566.0,Low,Long,4.0,Male,none,2.0,car,30.0,none,own,1.0,Qualified,1.0,none,yes,good
+146,Low,6.0,,new car,860.0,Very Low,Very Long,1.0,Female,none,4.0,no known property,39.0,none,own,2.0,Qualified,1.0,yes,yes,good
+147,Unknown,12.0,,new car,682.0,Low,Long,4.0,Female,none,3.0,car,51.0,none,own,2.0,Qualified,1.0,yes,yes,good
+148,Low,36.0,,furniture/equipment,5371.0,Very Low,Medium,3.0,Male,guarantor,2.0,life insurance,28.0,none,own,2.0,Qualified,1.0,none,yes,good
+149,Unknown,18.0,,radio/tv,1582.0,High,Very Long,4.0,Male,none,4.0,car,46.0,none,own,2.0,Qualified,1.0,none,yes,good
+150,Unknown,6.0,,radio/tv,1346.0,Low,Very Long,2.0,Male,none,4.0,no known property,42.0,bank,for free,1.0,Qualified,2.0,yes,yes,good
+151,Unknown,10.0,,radio/tv,1924.0,Very Low,Medium,1.0,Male,none,4.0,life insurance,38.0,none,own,1.0,Qualified,1.0,yes,no,good
+152,High,36.0,,radio/tv,5848.0,Very Low,Medium,4.0,Male,none,1.0,car,24.0,none,own,1.0,Qualified,1.0,none,yes,good
+153,Medium,24.0,,used car,7758.0,High,Very Long,2.0,Female,none,4.0,no known property,29.0,none,rent,1.0,Qualified,1.0,none,yes,good
+154,Medium,24.0,,business,6967.0,Low,Long,4.0,Male,none,4.0,car,36.0,none,rent,1.0,High Qualified,1.0,yes,yes,good
+155,Low,12.0,,furniture/equipment,1282.0,Very Low,Medium,2.0,Female,none,4.0,car,20.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+156,Low,9.0,,repairs,1288.0,Low,Very Long,3.0,Male,guarantor,4.0,real estate,48.0,none,own,2.0,Qualified,2.0,none,no,good
+157,Low,12.0,,retraining,339.0,Very Low,Very Long,4.0,Male,none,1.0,car,45.0,bank,own,1.0,Unqualified,1.0,none,yes,good
+158,Medium,24.0,,new car,3512.0,Low,Long,2.0,Male,none,3.0,car,38.0,bank,own,2.0,Qualified,1.0,yes,yes,good
+159,Unknown,6.0,,radio/tv,1898.0,Unknown,Medium,1.0,Male,none,2.0,real estate,34.0,none,own,2.0,Unqualified,2.0,none,yes,good
+160,Unknown,24.0,,radio/tv,2872.0,Low,Very Long,3.0,Male,none,4.0,real estate,36.0,none,own,1.0,Qualified,2.0,yes,yes,good
+161,Unknown,18.0,,new car,1055.0,Very Low,Short,4.0,Female,none,1.0,life insurance,30.0,none,own,2.0,Qualified,1.0,none,yes,good
+162,Unknown,15.0,,domestic appliance,1262.0,Medium,Long,4.0,Male,none,3.0,life insurance,36.0,none,own,2.0,Qualified,1.0,yes,yes,good
+163,Medium,10.0,,new car,7308.0,Very Low,,2.0,Male,none,4.0,no known property,70.0,bank,for free,1.0,High Qualified,1.0,yes,yes,good
+164,Unknown,36.0,,new car,909.0,Medium,Very Long,4.0,Male,none,4.0,life insurance,36.0,none,own,1.0,Qualified,1.0,none,yes,good
+165,Unknown,6.0,,furniture/equipment,2978.0,Medium,Medium,1.0,Male,none,2.0,car,32.0,none,own,1.0,Qualified,1.0,yes,yes,good
+166,Low,18.0,,furniture/equipment,1131.0,Very Low,,4.0,Female,none,2.0,car,33.0,none,own,1.0,Qualified,1.0,none,yes,bad
+167,Medium,11.0,,furniture/equipment,1577.0,High,Short,4.0,Female,none,1.0,real estate,20.0,none,own,1.0,Qualified,1.0,none,yes,good
+168,Unknown,24.0,,furniture/equipment,3972.0,Very Low,Long,2.0,Female,none,4.0,life insurance,25.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+169,Medium,24.0,,business,1935.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,31.0,none,own,2.0,Qualified,1.0,yes,yes,bad
+170,Low,15.0,no credits,new car,950.0,Very Low,Very Long,4.0,Male,none,3.0,car,33.0,none,rent,2.0,Qualified,2.0,none,yes,bad
+171,Unknown,12.0,,furniture/equipment,763.0,Very Low,Medium,4.0,Female,none,1.0,real estate,26.0,none,own,1.0,Qualified,1.0,yes,yes,good
+172,Medium,24.0,,furniture/equipment,2064.0,Very Low,,3.0,Female,none,2.0,life insurance,34.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+173,Medium,8.0,,radio/tv,1414.0,Very Low,Medium,4.0,Male,guarantor,2.0,real estate,33.0,none,own,1.0,Qualified,1.0,none,no,good
+174,Low,21.0,,education,3414.0,Very Low,Short,2.0,Male,none,1.0,life insurance,26.0,none,own,2.0,Qualified,1.0,none,yes,bad
+175,Unknown,30.0,,used car,7485.0,Unknown,,4.0,Female,none,1.0,real estate,53.0,bank,own,1.0,High Qualified,1.0,yes,yes,bad
+176,Low,12.0,,furniture/equipment,2577.0,Very Low,Medium,2.0,Male,none,1.0,car,42.0,none,own,1.0,Qualified,1.0,none,yes,good
+177,Low,6.0,,radio/tv,338.0,Medium,Very Long,4.0,Male,none,4.0,car,52.0,none,own,2.0,Qualified,1.0,none,yes,good
+178,Unknown,12.0,,radio/tv,1963.0,Very Low,Long,4.0,Male,none,2.0,car,31.0,none,rent,2.0,High Qualified,2.0,yes,yes,good
+179,Low,21.0,,new car,571.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,65.0,none,own,2.0,Qualified,1.0,none,yes,good
+180,Unknown,36.0,,business,9572.0,Very Low,Short,1.0,Male,none,1.0,car,28.0,none,own,2.0,Qualified,1.0,none,yes,bad
+181,Medium,36.0,,business,4455.0,Very Low,Medium,2.0,Male,none,2.0,real estate,30.0,stores,own,2.0,High Qualified,1.0,yes,yes,bad
+182,Low,21.0,,new car,1647.0,Unknown,Medium,4.0,Male,none,2.0,life insurance,40.0,none,own,2.0,Unqualified,2.0,none,yes,bad
+183,Unknown,24.0,,furniture/equipment,3777.0,High,Medium,4.0,Male,none,4.0,real estate,50.0,none,own,1.0,Qualified,1.0,yes,yes,good
+184,Medium,18.0,,new car,884.0,Very Low,Very Long,4.0,Male,none,4.0,car,36.0,bank,own,1.0,Qualified,2.0,yes,yes,bad
+185,Unknown,15.0,,radio/tv,1360.0,Very Low,Medium,4.0,Male,none,2.0,life insurance,31.0,none,own,2.0,Qualified,1.0,none,yes,good
+186,Medium,9.0,,used car,5129.0,Very Low,Very Long,2.0,Female,none,4.0,no known property,74.0,bank,for free,1.0,High Qualified,2.0,yes,yes,bad
+187,Medium,16.0,,new car,1175.0,Very Low,,2.0,Male,none,3.0,car,68.0,none,for free,3.0,Unemployed,1.0,yes,yes,good
+188,Low,12.0,,radio/tv,674.0,Low,Long,4.0,Male,none,1.0,life insurance,20.0,none,own,1.0,Qualified,1.0,none,yes,bad
+189,Medium,18.0,no credits,furniture/equipment,3244.0,Very Low,Medium,1.0,Female,none,4.0,car,33.0,bank,own,2.0,Qualified,1.0,yes,yes,good
+190,Unknown,24.0,,business,4591.0,High,Medium,2.0,Male,none,3.0,life insurance,54.0,none,own,3.0,High Qualified,1.0,yes,yes,bad
+191,Medium,48.0,no credits,business,3844.0,Low,Long,4.0,Male,none,4.0,no known property,34.0,none,for free,1.0,Unqualified,2.0,none,yes,bad
+192,Medium,27.0,,business,3915.0,Very Low,Medium,4.0,Male,none,2.0,car,36.0,none,own,1.0,Qualified,2.0,yes,yes,bad
+193,Unknown,6.0,,radio/tv,2108.0,Very Low,Long,2.0,Male,none,2.0,real estate,29.0,none,rent,1.0,Qualified,1.0,none,yes,good
+194,Medium,45.0,,radio/tv,3031.0,Low,Medium,4.0,Male,guarantor,4.0,life insurance,21.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+195,Medium,9.0,,education,1501.0,Very Low,Very Long,2.0,Female,none,3.0,car,34.0,none,own,2.0,High Qualified,1.0,yes,yes,bad
+196,Unknown,6.0,,radio/tv,1382.0,Very Low,Medium,1.0,Female,none,1.0,car,28.0,none,own,2.0,Qualified,1.0,yes,yes,good
+197,Medium,12.0,,furniture/equipment,951.0,Low,Short,4.0,Female,none,4.0,car,27.0,bank,rent,4.0,Qualified,1.0,none,yes,bad
+198,Medium,24.0,,used car,2760.0,Unknown,Very Long,4.0,Male,none,4.0,no known property,36.0,bank,for free,1.0,Qualified,1.0,yes,yes,good
+199,Medium,18.0,,furniture/equipment,4297.0,Very Low,Very Long,4.0,Male,none,3.0,no known property,40.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+200,Unknown,9.0,,education,936.0,Medium,Very Long,4.0,Male,none,2.0,car,52.0,none,own,2.0,Qualified,1.0,yes,yes,good
+201,Low,12.0,,new car,1168.0,Very Low,Medium,4.0,Male,none,3.0,real estate,27.0,none,own,1.0,Unqualified,1.0,none,yes,good
+202,Unknown,27.0,,business,5117.0,Very Low,Long,3.0,Male,none,4.0,car,26.0,none,own,2.0,Qualified,1.0,none,yes,good
+203,Low,12.0,,retraining,902.0,Very Low,Long,4.0,Male,none,4.0,life insurance,21.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+204,Unknown,12.0,,new car,1495.0,Very Low,Very Long,4.0,Male,none,1.0,real estate,38.0,none,own,2.0,Unqualified,2.0,none,yes,good
+205,Low,30.0,,used car,10623.0,Very Low,Very Long,3.0,Male,none,4.0,no known property,38.0,none,for free,3.0,High Qualified,2.0,yes,yes,good
+206,Unknown,12.0,,furniture/equipment,1935.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,43.0,none,own,3.0,Qualified,1.0,yes,yes,good
+207,Medium,12.0,,domestic appliance,1424.0,Very Low,Long,4.0,Male,none,3.0,life insurance,26.0,none,own,1.0,Qualified,1.0,none,yes,good
+208,Low,24.0,,business,6568.0,Very Low,Medium,2.0,Male,none,2.0,car,21.0,stores,own,1.0,Unqualified,1.0,none,yes,good
+209,Unknown,12.0,,used car,1413.0,High,Long,3.0,Male,none,2.0,life insurance,55.0,none,own,1.0,Qualified,1.0,none,no,good
+210,Unknown,9.0,,radio/tv,3074.0,Unknown,Medium,1.0,Male,none,2.0,real estate,33.0,none,own,2.0,Qualified,2.0,none,yes,good
+211,Unknown,36.0,,radio/tv,3835.0,Unknown,Very Long,2.0,Female,none,4.0,real estate,45.0,none,own,1.0,Unqualified,1.0,yes,yes,good
+212,Low,27.0,no credits,business,5293.0,Very Low,,2.0,Male,none,4.0,life insurance,50.0,stores,own,2.0,Qualified,1.0,yes,yes,bad
+213,High,30.0,,business,1908.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,66.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+214,Unknown,36.0,,radio/tv,3342.0,Unknown,Very Long,4.0,Male,none,2.0,car,51.0,none,own,1.0,Qualified,1.0,yes,yes,good
+215,Medium,6.0,,retraining,932.0,Unknown,Long,1.0,Female,none,3.0,life insurance,39.0,none,own,2.0,Unqualified,1.0,none,yes,good
+216,Low,18.0,no credits,business,3104.0,Very Low,Long,3.0,Male,none,1.0,life insurance,31.0,bank,own,1.0,Qualified,1.0,yes,yes,good
+217,High,36.0,,radio/tv,3913.0,Very Low,Medium,2.0,Male,none,2.0,real estate,23.0,none,own,1.0,Qualified,1.0,yes,yes,good
+218,Low,24.0,,furniture/equipment,3021.0,Very Low,Medium,2.0,Male,none,2.0,real estate,24.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+219,Unknown,10.0,,new car,1364.0,Very Low,Medium,2.0,Female,none,4.0,car,64.0,none,own,1.0,Qualified,1.0,yes,yes,good
+220,Medium,12.0,,radio/tv,625.0,Very Low,Short,4.0,Male,guarantor,1.0,real estate,26.0,bank,own,1.0,Unqualified,1.0,none,yes,good
+221,Low,12.0,,education,1200.0,Unknown,Medium,4.0,Female,none,4.0,life insurance,23.0,bank,rent,1.0,Qualified,1.0,yes,yes,good
+222,Unknown,12.0,,radio/tv,707.0,Very Low,Medium,4.0,Male,none,2.0,real estate,30.0,bank,own,2.0,Qualified,1.0,none,yes,good
+223,Unknown,24.0,,business,2978.0,Unknown,Medium,4.0,Male,none,4.0,real estate,32.0,none,own,2.0,Qualified,2.0,yes,yes,good
+224,Unknown,15.0,,used car,4657.0,Very Low,Medium,3.0,Male,none,2.0,car,30.0,none,own,1.0,Qualified,1.0,yes,yes,good
+225,Unknown,36.0,no credits,repairs,2613.0,Very Low,Medium,4.0,Male,none,2.0,car,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+226,Medium,48.0,,radio/tv,10961.0,High,Long,1.0,Male,co applicant,2.0,no known property,27.0,bank,own,2.0,Qualified,1.0,yes,yes,bad
+227,Low,12.0,,furniture/equipment,7865.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,53.0,none,for free,1.0,High Qualified,1.0,yes,yes,bad
+228,Unknown,9.0,,radio/tv,1478.0,Very Low,Long,4.0,Male,none,2.0,car,22.0,none,own,1.0,Qualified,1.0,none,yes,bad
+229,Low,24.0,,furniture/equipment,3149.0,Very Low,Short,4.0,Male,none,1.0,no known property,22.0,bank,for free,1.0,Qualified,1.0,none,yes,good
+230,High,36.0,,radio/tv,4210.0,Very Low,Medium,4.0,Male,none,2.0,car,26.0,none,own,1.0,Qualified,1.0,none,yes,bad
+231,Unknown,9.0,,new car,2507.0,Medium,Very Long,2.0,Male,none,4.0,no known property,51.0,none,for free,1.0,Unqualified,1.0,none,yes,good
+232,Unknown,12.0,,radio/tv,2141.0,Low,Long,3.0,Male,none,1.0,no known property,35.0,none,own,1.0,Qualified,1.0,none,yes,good
+233,Medium,18.0,,radio/tv,866.0,Very Low,Medium,4.0,Male,guarantor,2.0,real estate,25.0,none,own,1.0,Unqualified,1.0,none,yes,good
+234,Unknown,4.0,,radio/tv,1544.0,Very Low,Long,2.0,Male,none,1.0,real estate,42.0,none,own,3.0,Unqualified,2.0,none,yes,good
+235,Low,24.0,,radio/tv,1823.0,Very Low,,4.0,Male,none,2.0,car,30.0,stores,own,1.0,High Qualified,2.0,none,yes,bad
+236,Medium,6.0,,new car,14555.0,Unknown,,1.0,Male,none,2.0,life insurance,23.0,none,own,1.0,Unemployed,1.0,yes,yes,bad
+237,Medium,21.0,,business,2767.0,Low,Very Long,4.0,Male,none,2.0,car,61.0,bank,rent,2.0,Unqualified,1.0,none,yes,bad
+238,Unknown,12.0,,radio/tv,1291.0,Very Low,Medium,4.0,Female,none,2.0,life insurance,35.0,none,own,2.0,Qualified,1.0,none,yes,good
+239,Low,30.0,,radio/tv,2522.0,Very Low,Very Long,1.0,Male,guarantor,3.0,life insurance,39.0,none,own,1.0,Qualified,2.0,none,yes,good
+240,Low,24.0,,new car,915.0,Unknown,Very Long,4.0,Female,none,2.0,car,29.0,bank,own,1.0,Qualified,1.0,none,yes,bad
+241,Unknown,6.0,,radio/tv,1595.0,Very Low,Long,3.0,Male,none,2.0,life insurance,51.0,none,own,1.0,Qualified,2.0,none,yes,good
+242,Low,48.0,no credits,used car,4605.0,Very Low,Very Long,3.0,Male,none,4.0,no known property,24.0,none,for free,2.0,Qualified,2.0,none,yes,bad
+243,Unknown,12.0,,business,1185.0,Very Low,Medium,3.0,Female,none,2.0,real estate,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+244,Unknown,12.0,,retraining,3447.0,Medium,Medium,4.0,Female,none,3.0,real estate,35.0,none,own,1.0,Unqualified,2.0,none,yes,good
+245,Unknown,24.0,,business,1258.0,Very Low,Long,4.0,Male,none,1.0,real estate,25.0,none,own,1.0,Qualified,1.0,yes,yes,good
+246,Unknown,12.0,,radio/tv,717.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,52.0,none,own,3.0,Qualified,1.0,none,yes,good
+247,Unknown,6.0,no credits,new car,1204.0,Low,Medium,4.0,Male,none,1.0,no known property,35.0,bank,rent,1.0,Qualified,1.0,none,no,good
+248,High,24.0,,furniture/equipment,1925.0,Very Low,Medium,2.0,Male,none,2.0,real estate,26.0,none,own,1.0,Qualified,1.0,none,yes,good
+249,Unknown,18.0,,radio/tv,433.0,Very Low,,3.0,Female,co applicant,4.0,real estate,22.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+250,Low,6.0,,new car,666.0,High,Long,3.0,Female,none,4.0,real estate,39.0,none,own,2.0,Unqualified,1.0,yes,yes,good
+251,High,12.0,,furniture/equipment,2251.0,Very Low,Medium,1.0,Female,none,2.0,car,46.0,none,own,1.0,Unqualified,1.0,none,yes,good
+252,Medium,30.0,,new car,2150.0,Very Low,Medium,4.0,Female,guarantor,2.0,no known property,24.0,bank,own,1.0,Qualified,1.0,none,yes,bad
+253,Unknown,24.0,,furniture/equipment,4151.0,Low,Medium,2.0,Male,none,3.0,life insurance,35.0,none,own,2.0,Qualified,1.0,none,yes,good
+254,Medium,9.0,,furniture/equipment,2030.0,Unknown,Long,2.0,Male,none,1.0,car,24.0,none,own,1.0,Qualified,1.0,yes,yes,good
+255,Medium,60.0,,radio/tv,7418.0,Unknown,Medium,1.0,Male,none,1.0,real estate,27.0,none,own,1.0,Unqualified,1.0,none,yes,good
+256,Unknown,24.0,,radio/tv,2684.0,Very Low,Medium,4.0,Male,none,2.0,real estate,35.0,none,own,2.0,Unqualified,1.0,none,yes,good
+257,Low,12.0,,radio/tv,2149.0,Very Low,Medium,4.0,Male,none,1.0,no known property,29.0,none,for free,1.0,Qualified,1.0,none,yes,bad
+258,Unknown,15.0,,used car,3812.0,Low,Short,1.0,Female,none,4.0,car,23.0,none,own,1.0,Qualified,1.0,yes,yes,good
+259,Unknown,11.0,,radio/tv,1154.0,Low,,4.0,Female,none,4.0,real estate,57.0,none,own,3.0,Unqualified,1.0,none,yes,good
+260,Low,12.0,,furniture/equipment,1657.0,Very Low,Medium,2.0,Male,none,2.0,real estate,27.0,none,own,1.0,Qualified,1.0,none,yes,good
+261,Low,24.0,,radio/tv,1603.0,Very Low,Very Long,4.0,Female,none,4.0,car,55.0,none,own,1.0,Qualified,1.0,none,yes,good
+262,Low,18.0,,new car,5302.0,Very Low,Very Long,2.0,Male,none,4.0,no known property,36.0,none,for free,3.0,High Qualified,1.0,yes,yes,good
+263,Unknown,12.0,,education,2748.0,Very Low,Very Long,2.0,Female,none,4.0,no known property,57.0,bank,for free,3.0,Unqualified,1.0,none,yes,good
+264,Unknown,10.0,,new car,1231.0,Very Low,Very Long,3.0,Male,none,4.0,real estate,32.0,none,own,2.0,Unqualified,2.0,none,no,good
+265,Medium,15.0,,radio/tv,802.0,Very Low,Very Long,4.0,Male,none,3.0,car,37.0,none,own,1.0,Qualified,2.0,none,yes,bad
+266,Unknown,36.0,,business,6304.0,Unknown,Very Long,4.0,Male,none,4.0,real estate,36.0,none,own,2.0,Qualified,1.0,none,yes,good
+267,Unknown,24.0,,radio/tv,1533.0,Very Low,Short,4.0,Female,none,3.0,car,38.0,stores,own,1.0,Qualified,1.0,yes,yes,good
+268,Low,14.0,,new car,8978.0,Very Low,Very Long,1.0,Male,none,4.0,life insurance,45.0,none,own,1.0,High Qualified,1.0,yes,no,bad
+269,Unknown,24.0,,radio/tv,999.0,Unknown,Very Long,4.0,Male,none,2.0,car,25.0,none,own,2.0,Qualified,1.0,none,yes,good
+270,Unknown,18.0,,new car,2662.0,Unknown,Long,4.0,Male,none,3.0,life insurance,32.0,none,own,1.0,Qualified,1.0,none,no,good
+271,Unknown,12.0,,furniture/equipment,1402.0,Medium,Long,3.0,Female,none,4.0,car,37.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+272,Medium,48.0,,new car,12169.0,Unknown,,4.0,Male,co applicant,4.0,no known property,36.0,none,for free,1.0,High Qualified,1.0,yes,yes,good
+273,Medium,48.0,,radio/tv,3060.0,Very Low,Long,4.0,Male,none,4.0,real estate,28.0,none,own,2.0,Qualified,1.0,none,yes,bad
+274,Low,30.0,,repairs,11998.0,Very Low,Short,1.0,Male,none,1.0,no known property,34.0,none,own,1.0,Unqualified,1.0,yes,yes,bad
+275,Unknown,9.0,,radio/tv,2697.0,Very Low,Medium,1.0,Male,none,2.0,real estate,32.0,none,own,1.0,Qualified,2.0,none,yes,good
+276,Unknown,18.0,,radio/tv,2404.0,Very Low,Medium,2.0,Female,none,2.0,car,26.0,none,own,2.0,Qualified,1.0,none,yes,good
+277,Low,12.0,,furniture/equipment,1262.0,Unknown,Very Long,2.0,Male,none,4.0,life insurance,49.0,none,own,1.0,Unqualified,1.0,yes,yes,good
+278,Unknown,6.0,,furniture/equipment,4611.0,Very Low,Short,1.0,Female,none,4.0,life insurance,32.0,none,own,1.0,Qualified,1.0,none,yes,bad
+279,Unknown,24.0,,radio/tv,1901.0,Low,Medium,4.0,Male,none,4.0,car,29.0,none,rent,1.0,High Qualified,1.0,yes,yes,good
+280,Unknown,15.0,,used car,3368.0,High,Very Long,3.0,Male,none,4.0,no known property,23.0,none,rent,2.0,Qualified,1.0,yes,yes,good
+281,Unknown,12.0,,furniture/equipment,1574.0,Very Low,Medium,4.0,Male,none,2.0,real estate,50.0,none,own,1.0,Qualified,1.0,none,yes,good
+282,High,18.0,,radio/tv,1445.0,Unknown,Long,4.0,Male,none,4.0,car,49.0,bank,own,1.0,Unqualified,1.0,none,yes,good
+283,Unknown,15.0,,furniture/equipment,1520.0,Unknown,Very Long,4.0,Male,none,4.0,life insurance,63.0,none,own,1.0,Qualified,1.0,none,yes,good
+284,Medium,24.0,,new car,3878.0,Low,Short,4.0,Male,none,2.0,car,37.0,none,own,1.0,Qualified,1.0,yes,yes,good
+285,Low,47.0,,new car,10722.0,Very Low,Short,1.0,Female,none,1.0,real estate,35.0,none,own,1.0,Unqualified,1.0,yes,yes,good
+286,Low,48.0,,used car,4788.0,Very Low,Long,4.0,Male,none,3.0,life insurance,26.0,none,own,1.0,Qualified,2.0,none,yes,good
+287,Medium,48.0,,other,7582.0,Low,,2.0,Male,none,4.0,no known property,31.0,none,for free,1.0,High Qualified,1.0,yes,yes,good
+288,Medium,12.0,,radio/tv,1092.0,Very Low,Medium,4.0,Female,guarantor,4.0,real estate,49.0,none,own,2.0,Qualified,1.0,yes,yes,good
+289,Low,24.0,,radio/tv,1024.0,Very Low,Short,4.0,Male,none,4.0,real estate,48.0,stores,own,1.0,Qualified,1.0,none,yes,bad
+290,Unknown,12.0,,business,1076.0,Very Low,Medium,2.0,Male,none,2.0,real estate,26.0,none,own,1.0,Qualified,1.0,yes,no,good
+291,Medium,36.0,,used car,9398.0,Very Low,Short,1.0,Male,none,4.0,car,28.0,none,rent,1.0,High Qualified,1.0,yes,yes,bad
+292,Low,24.0,,used car,6419.0,Very Low,Very Long,2.0,Female,none,4.0,no known property,44.0,none,for free,2.0,High Qualified,2.0,yes,yes,good
+293,High,42.0,,used car,4796.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,56.0,none,for free,1.0,Qualified,1.0,none,yes,good
+294,Unknown,48.0,,business,7629.0,Unknown,Very Long,4.0,Male,none,2.0,car,46.0,bank,own,2.0,High Qualified,2.0,none,yes,good
+295,Medium,48.0,,furniture/equipment,9960.0,Very Low,Short,1.0,Female,none,2.0,car,26.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+296,Unknown,12.0,,used car,4675.0,Unknown,Short,1.0,Female,none,4.0,car,20.0,none,rent,1.0,Qualified,1.0,none,yes,good
+297,Unknown,10.0,,new car,1287.0,Unknown,Very Long,4.0,Male,co applicant,2.0,life insurance,45.0,none,own,1.0,Unqualified,1.0,none,no,good
+298,Unknown,18.0,,furniture/equipment,2515.0,Very Low,Medium,3.0,Male,none,4.0,real estate,43.0,none,own,1.0,Qualified,1.0,yes,yes,good
+299,Medium,21.0,,furniture/equipment,2745.0,High,Long,3.0,Male,none,2.0,car,32.0,none,own,2.0,Qualified,1.0,yes,yes,good
+300,Unknown,6.0,,new car,672.0,Very Low,,1.0,Female,none,4.0,real estate,54.0,none,own,1.0,Unemployed,1.0,yes,yes,good
+301,Medium,36.0,no credits,radio/tv,3804.0,Very Low,Medium,4.0,Female,none,1.0,car,42.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+302,High,24.0,,new car,1344.0,Unknown,Long,4.0,Male,none,2.0,real estate,37.0,bank,own,2.0,Unqualified,2.0,none,yes,bad
+303,Low,10.0,,new car,1038.0,Very Low,Long,4.0,Male,co applicant,3.0,life insurance,49.0,none,own,2.0,Qualified,1.0,yes,yes,good
+304,Unknown,48.0,,new car,10127.0,Medium,Medium,2.0,Male,none,2.0,no known property,44.0,bank,for free,1.0,Qualified,1.0,none,yes,bad
+305,Unknown,6.0,,furniture/equipment,1543.0,High,Medium,4.0,Male,none,2.0,real estate,33.0,none,own,1.0,Qualified,1.0,none,yes,good
+306,Unknown,30.0,,used car,4811.0,Unknown,Long,2.0,Female,none,4.0,life insurance,24.0,stores,rent,1.0,Unqualified,1.0,none,yes,good
+307,Low,12.0,,radio/tv,727.0,Low,Short,4.0,Male,none,3.0,no known property,33.0,none,own,1.0,Unqualified,1.0,yes,yes,bad
+308,Medium,8.0,,furniture/equipment,1237.0,Very Low,Medium,3.0,Female,none,4.0,real estate,24.0,none,own,1.0,Qualified,1.0,none,yes,bad
+309,Medium,9.0,,new car,276.0,Very Low,Medium,4.0,Male,none,4.0,real estate,22.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+310,Medium,48.0,,other,5381.0,Unknown,,3.0,Male,none,4.0,no known property,40.0,bank,for free,1.0,Unemployed,1.0,yes,yes,good
+311,Unknown,24.0,,furniture/equipment,5511.0,Low,Medium,4.0,Male,none,1.0,car,25.0,stores,own,1.0,Qualified,1.0,none,yes,good
+312,High,24.0,,furniture/equipment,3749.0,Very Low,Short,2.0,Female,none,4.0,car,26.0,none,own,1.0,Qualified,1.0,none,yes,good
+313,Medium,12.0,,new car,685.0,Very Low,Long,2.0,Male,none,3.0,car,25.0,bank,own,1.0,Unqualified,1.0,none,yes,bad
+314,High,4.0,,new car,1494.0,Unknown,Short,1.0,Male,none,2.0,real estate,29.0,none,own,1.0,Unqualified,2.0,none,no,good
+315,Low,36.0,,furniture/equipment,2746.0,Very Low,Very Long,4.0,Male,none,4.0,car,31.0,bank,own,1.0,Qualified,1.0,none,yes,bad
+316,Low,12.0,,furniture/equipment,708.0,Very Low,Medium,2.0,Male,guarantor,3.0,life insurance,38.0,none,own,1.0,Unqualified,2.0,none,yes,good
+317,Medium,24.0,,furniture/equipment,4351.0,Unknown,Medium,1.0,Female,none,4.0,life insurance,48.0,none,own,1.0,Unqualified,1.0,yes,yes,good
+318,Unknown,12.0,,education,701.0,Very Low,Medium,4.0,Male,none,2.0,car,32.0,none,own,2.0,Qualified,1.0,none,yes,good
+319,Low,15.0,,furniture/equipment,3643.0,Very Low,Very Long,1.0,Female,none,4.0,life insurance,27.0,none,own,2.0,Unqualified,1.0,none,yes,good
+320,Medium,30.0,,new car,4249.0,Very Low,,4.0,Male,none,2.0,car,28.0,none,own,2.0,High Qualified,1.0,none,yes,bad
+321,Low,24.0,,radio/tv,1938.0,Very Low,Short,4.0,Male,none,3.0,life insurance,32.0,none,own,1.0,Qualified,1.0,none,yes,bad
+322,Low,24.0,,used car,2910.0,Very Low,Long,2.0,Male,none,1.0,no known property,34.0,none,for free,1.0,High Qualified,1.0,yes,yes,good
+323,Low,18.0,,furniture/equipment,2659.0,High,Medium,4.0,Male,none,2.0,car,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+324,Unknown,18.0,,new car,1028.0,Very Low,Medium,4.0,Female,none,3.0,real estate,36.0,none,own,2.0,Qualified,1.0,none,yes,good
+325,Low,8.0,,new car,3398.0,Very Low,Long,1.0,Male,none,4.0,real estate,39.0,none,own,2.0,Unqualified,1.0,none,no,good
+326,Unknown,12.0,,furniture/equipment,5801.0,Unknown,Very Long,2.0,Male,none,4.0,life insurance,49.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+327,Unknown,24.0,,new car,1525.0,High,Long,4.0,Female,none,3.0,car,34.0,none,own,1.0,Qualified,2.0,yes,yes,good
+328,High,36.0,,radio/tv,4473.0,Very Low,Very Long,4.0,Male,none,2.0,car,31.0,none,own,1.0,Qualified,1.0,none,yes,good
+329,Medium,6.0,,radio/tv,1068.0,Very Low,Very Long,4.0,Male,none,4.0,car,28.0,none,own,1.0,Qualified,2.0,none,yes,good
+330,Low,24.0,,used car,6615.0,Very Low,,2.0,Male,none,4.0,no known property,75.0,none,for free,2.0,High Qualified,1.0,yes,yes,good
+331,Unknown,18.0,,education,1864.0,Low,Medium,4.0,Female,none,2.0,real estate,30.0,none,own,2.0,Qualified,1.0,none,yes,bad
+332,Medium,60.0,,new car,7408.0,Low,Short,4.0,Female,none,2.0,life insurance,24.0,none,own,1.0,High Qualified,1.0,none,yes,bad
+333,Unknown,48.0,,used car,11590.0,Low,Medium,2.0,Female,none,4.0,car,24.0,bank,rent,2.0,Unqualified,1.0,none,yes,bad
+334,Low,24.0,no credits,furniture/equipment,4110.0,Very Low,Very Long,3.0,Male,none,4.0,no known property,23.0,bank,rent,2.0,Qualified,2.0,none,yes,bad
+335,Low,6.0,,furniture/equipment,3384.0,Very Low,Medium,1.0,Male,none,4.0,real estate,44.0,none,rent,1.0,High Qualified,1.0,yes,yes,bad
+336,Medium,13.0,,radio/tv,2101.0,Very Low,Short,2.0,Female,guarantor,4.0,life insurance,23.0,none,own,1.0,Unqualified,1.0,none,yes,good
+337,Low,15.0,,domestic appliance,1275.0,Unknown,Medium,4.0,Female,none,2.0,car,24.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+338,Low,24.0,,furniture/equipment,4169.0,Very Low,Medium,4.0,Male,none,4.0,life insurance,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+339,Medium,10.0,,furniture/equipment,1521.0,Very Low,Medium,4.0,Male,none,2.0,car,31.0,none,own,1.0,Unqualified,1.0,none,yes,good
+340,Medium,24.0,,education,5743.0,Very Low,Short,2.0,Female,none,4.0,no known property,24.0,none,for free,2.0,Qualified,1.0,yes,yes,good
+341,Low,21.0,,furniture/equipment,3599.0,Very Low,Long,1.0,Female,none,4.0,car,26.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+342,Medium,18.0,,radio/tv,3213.0,Medium,Short,1.0,Male,none,3.0,real estate,25.0,none,rent,1.0,Qualified,1.0,none,yes,good
+343,Medium,18.0,,business,4439.0,Very Low,Very Long,1.0,Male,co applicant,1.0,real estate,33.0,bank,own,1.0,High Qualified,1.0,yes,yes,good
+344,High,10.0,,new car,3949.0,Very Low,Short,1.0,Male,guarantor,1.0,life insurance,37.0,none,own,1.0,Unqualified,2.0,none,yes,good
+345,Unknown,15.0,,radio/tv,1459.0,Very Low,Medium,4.0,Female,none,2.0,car,43.0,none,own,1.0,Unqualified,1.0,none,yes,good
+346,Medium,13.0,,radio/tv,882.0,Very Low,Short,4.0,Male,guarantor,4.0,real estate,23.0,none,own,2.0,Qualified,1.0,none,yes,good
+347,Medium,24.0,,radio/tv,3758.0,Medium,,1.0,Female,none,4.0,no known property,23.0,none,rent,1.0,Unemployed,1.0,none,yes,good
+348,Unknown,6.0,,business,1743.0,Low,Medium,1.0,Male,none,2.0,real estate,34.0,none,own,2.0,Unqualified,1.0,none,yes,good
+349,Medium,9.0,,education,1136.0,High,Very Long,4.0,Male,none,3.0,no known property,32.0,none,for free,2.0,Qualified,2.0,none,yes,bad
+350,Unknown,9.0,,domestic appliance,1236.0,Very Low,Short,1.0,Female,none,4.0,real estate,23.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+351,Medium,9.0,,furniture/equipment,959.0,Very Low,Medium,1.0,Female,none,2.0,car,29.0,none,own,1.0,Qualified,1.0,none,no,bad
+352,Unknown,18.0,,used car,3229.0,Unknown,,2.0,Male,none,4.0,no known property,38.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+353,Low,12.0,no credits,radio/tv,6199.0,Very Low,Medium,4.0,Male,none,2.0,life insurance,28.0,none,rent,2.0,Qualified,1.0,yes,yes,bad
+354,Unknown,10.0,,education,727.0,Medium,Very Long,4.0,Male,none,4.0,no known property,46.0,none,for free,1.0,Qualified,1.0,yes,yes,good
+355,Medium,24.0,,new car,1246.0,Very Low,Short,4.0,Male,none,2.0,real estate,23.0,stores,own,1.0,Unqualified,1.0,none,yes,bad
+356,Unknown,12.0,,radio/tv,2331.0,Unknown,Very Long,1.0,Male,co applicant,4.0,real estate,49.0,none,own,1.0,Qualified,1.0,yes,yes,good
+357,Unknown,36.0,,radio/tv,4463.0,Very Low,Medium,4.0,Male,none,2.0,car,26.0,none,own,2.0,High Qualified,1.0,yes,yes,bad
+358,Unknown,12.0,,radio/tv,776.0,Very Low,Medium,4.0,Male,none,2.0,real estate,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+359,Low,30.0,,furniture/equipment,2406.0,Very Low,Long,4.0,Female,none,4.0,real estate,23.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+360,Medium,18.0,,education,1239.0,Unknown,Medium,4.0,Male,none,4.0,no known property,61.0,none,for free,1.0,Qualified,1.0,none,yes,good
+361,High,12.0,,radio/tv,3399.0,Unknown,Very Long,2.0,Male,none,3.0,car,37.0,none,own,1.0,High Qualified,1.0,none,yes,good
+362,High,12.0,,new car,2247.0,Very Low,Medium,2.0,Female,none,2.0,car,36.0,stores,own,2.0,Qualified,1.0,yes,yes,good
+363,Unknown,6.0,,furniture/equipment,1766.0,Very Low,Medium,1.0,Male,none,2.0,life insurance,21.0,none,rent,1.0,Qualified,1.0,none,yes,good
+364,Low,18.0,,furniture/equipment,2473.0,Very Low,,4.0,Male,none,1.0,car,25.0,none,own,1.0,Unemployed,1.0,none,yes,bad
+365,Unknown,12.0,,business,1542.0,Very Low,Long,2.0,Male,none,4.0,car,36.0,none,own,1.0,Qualified,1.0,yes,yes,good
+366,Unknown,18.0,,used car,3850.0,Very Low,Long,3.0,Male,none,1.0,car,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+367,Low,18.0,,furniture/equipment,3650.0,Very Low,Short,1.0,Female,none,4.0,car,22.0,none,rent,1.0,Qualified,1.0,none,yes,good
+368,Low,36.0,,furniture/equipment,3446.0,Very Low,Very Long,4.0,Male,none,2.0,car,42.0,none,own,1.0,Qualified,2.0,none,yes,bad
+369,Medium,18.0,,furniture/equipment,3001.0,Very Low,Long,2.0,Female,none,4.0,real estate,40.0,none,rent,1.0,Qualified,1.0,none,yes,good
+370,Unknown,36.0,,new car,3079.0,Unknown,Medium,4.0,Male,none,4.0,real estate,36.0,none,own,1.0,Qualified,1.0,none,yes,good
+371,Unknown,18.0,,radio/tv,6070.0,Very Low,Very Long,3.0,Male,none,4.0,car,33.0,none,own,2.0,Qualified,1.0,yes,yes,good
+372,Unknown,10.0,,furniture/equipment,2146.0,Very Low,Short,1.0,Female,none,3.0,real estate,23.0,none,rent,2.0,Qualified,1.0,none,yes,good
+373,Unknown,60.0,,new car,13756.0,Unknown,Very Long,2.0,Male,none,4.0,no known property,63.0,bank,for free,1.0,High Qualified,1.0,yes,yes,good
+374,Medium,60.0,,other,14782.0,Low,Very Long,3.0,Female,none,4.0,no known property,60.0,bank,for free,2.0,High Qualified,1.0,yes,yes,bad
+375,Low,48.0,,business,7685.0,Very Low,Long,2.0,Female,guarantor,4.0,car,37.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+376,Unknown,18.0,,radio/tv,2320.0,Very Low,,2.0,Male,none,3.0,real estate,34.0,none,own,2.0,Qualified,1.0,none,yes,good
+377,Unknown,7.0,,radio/tv,846.0,Unknown,Very Long,3.0,Male,none,4.0,no known property,36.0,none,for free,1.0,Qualified,1.0,none,yes,good
+378,Medium,36.0,,new car,14318.0,Very Low,Very Long,4.0,Male,none,2.0,no known property,57.0,none,for free,1.0,High Qualified,1.0,yes,yes,bad
+379,Unknown,6.0,,new car,362.0,Low,Medium,4.0,Female,none,4.0,car,52.0,none,own,2.0,Unqualified,1.0,none,yes,good
+380,Low,20.0,,furniture/equipment,2212.0,Unknown,Long,4.0,Male,none,4.0,car,39.0,none,own,1.0,Qualified,1.0,yes,yes,good
+381,Medium,18.0,,used car,12976.0,Very Low,,3.0,Female,none,4.0,no known property,38.0,none,for free,1.0,High Qualified,1.0,yes,yes,bad
+382,Unknown,22.0,,new car,1283.0,Unknown,Long,4.0,Female,none,4.0,life insurance,25.0,none,rent,1.0,Qualified,1.0,none,yes,good
+383,High,12.0,,new car,1330.0,Very Low,Short,4.0,Male,none,1.0,real estate,26.0,none,own,1.0,Qualified,1.0,none,yes,good
+384,Unknown,30.0,,business,4272.0,Low,Medium,2.0,Male,none,2.0,life insurance,26.0,none,own,2.0,Unqualified,1.0,none,yes,good
+385,Unknown,18.0,,radio/tv,2238.0,Very Low,Medium,2.0,Female,none,1.0,car,25.0,none,own,2.0,Qualified,1.0,none,yes,good
+386,Unknown,18.0,,radio/tv,1126.0,Unknown,Short,4.0,Female,none,2.0,real estate,21.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+387,Medium,18.0,,furniture/equipment,7374.0,Very Low,,4.0,Male,none,4.0,life insurance,40.0,stores,own,2.0,High Qualified,1.0,yes,yes,good
+388,Medium,15.0,,business,2326.0,Medium,Medium,2.0,Male,none,4.0,car,27.0,bank,own,1.0,Qualified,1.0,none,yes,good
+389,Unknown,9.0,,business,1449.0,Very Low,Long,3.0,Female,none,2.0,car,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+390,Unknown,18.0,,new car,1820.0,Very Low,Medium,2.0,Male,none,2.0,life insurance,30.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+391,Medium,12.0,,furniture/equipment,983.0,High,Short,1.0,Female,none,4.0,real estate,19.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+392,Low,36.0,,new car,3249.0,Very Low,Long,2.0,Male,none,4.0,no known property,39.0,bank,for free,1.0,High Qualified,2.0,yes,yes,good
+393,Low,6.0,,radio/tv,1957.0,Very Low,Long,1.0,Female,none,4.0,car,31.0,none,own,1.0,Qualified,1.0,none,yes,good
+394,Unknown,9.0,,furniture/equipment,2406.0,Very Low,,2.0,Male,none,3.0,car,31.0,none,own,1.0,High Qualified,1.0,none,yes,good
+395,Medium,39.0,,education,11760.0,Low,Long,2.0,Male,none,3.0,no known property,32.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+396,Low,12.0,,furniture/equipment,2578.0,Very Low,,3.0,Female,none,4.0,no known property,55.0,none,for free,1.0,High Qualified,1.0,none,yes,good
+397,Low,36.0,,furniture/equipment,2348.0,Very Low,Medium,3.0,Male,none,2.0,life insurance,46.0,none,own,2.0,Qualified,1.0,yes,yes,good
+398,Medium,12.0,,new car,1223.0,Very Low,Very Long,1.0,Male,none,1.0,real estate,46.0,none,rent,2.0,Qualified,1.0,none,yes,bad
+399,Unknown,24.0,,radio/tv,1516.0,High,Medium,4.0,Female,none,1.0,real estate,43.0,none,own,2.0,Unqualified,1.0,none,yes,good
+400,Unknown,18.0,,radio/tv,1473.0,Very Low,Short,3.0,Male,none,4.0,real estate,39.0,none,own,1.0,Qualified,1.0,yes,yes,good
+401,Medium,18.0,,business,1887.0,Unknown,Medium,4.0,Male,none,4.0,real estate,28.0,bank,own,2.0,Qualified,1.0,none,yes,good
+402,Unknown,24.0,,business,8648.0,Very Low,Short,2.0,Male,none,2.0,car,27.0,bank,own,2.0,Qualified,1.0,yes,yes,bad
+403,Unknown,14.0,,new car,802.0,Very Low,Medium,4.0,Male,none,2.0,car,27.0,none,own,2.0,Unqualified,1.0,none,yes,good
+404,Medium,18.0,,new car,2899.0,Unknown,Very Long,4.0,Male,none,4.0,car,43.0,none,own,1.0,Qualified,2.0,none,yes,good
+405,Medium,24.0,,radio/tv,2039.0,Very Low,Short,1.0,Male,none,1.0,life insurance,22.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+406,Unknown,24.0,,used car,2197.0,Unknown,Long,4.0,Male,none,4.0,car,43.0,none,own,2.0,Qualified,2.0,yes,yes,good
+407,Low,15.0,,radio/tv,1053.0,Very Low,Short,4.0,Male,none,2.0,real estate,27.0,none,own,1.0,Qualified,1.0,none,no,good
+408,Unknown,24.0,,radio/tv,3235.0,Medium,Very Long,3.0,Male,none,2.0,car,26.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+409,High,12.0,,new car,939.0,Medium,Long,4.0,Male,none,2.0,real estate,28.0,none,own,3.0,Qualified,1.0,yes,yes,bad
+410,Medium,24.0,,radio/tv,1967.0,Very Low,Very Long,4.0,Female,none,4.0,car,20.0,none,own,1.0,Qualified,1.0,yes,yes,good
+411,Unknown,33.0,,used car,7253.0,Very Low,Long,3.0,Male,none,2.0,car,35.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+412,Unknown,12.0,,business,2292.0,Very Low,,4.0,Male,none,2.0,car,42.0,stores,own,2.0,High Qualified,1.0,yes,yes,bad
+413,Unknown,10.0,,new car,1597.0,Medium,Medium,3.0,Male,none,2.0,no known property,40.0,none,rent,1.0,Unqualified,2.0,none,no,good
+414,Low,24.0,,new car,1381.0,Unknown,Medium,4.0,Female,none,2.0,life insurance,35.0,none,own,1.0,Qualified,1.0,none,yes,bad
+415,Unknown,36.0,,used car,5842.0,Very Low,Very Long,2.0,Male,none,2.0,life insurance,35.0,none,own,2.0,Qualified,2.0,yes,yes,good
+416,Low,12.0,,new car,2579.0,Very Low,Short,4.0,Male,none,1.0,real estate,33.0,none,own,1.0,Unqualified,2.0,none,yes,bad
+417,Low,18.0,,education,8471.0,Unknown,Medium,1.0,Female,none,2.0,car,23.0,none,rent,2.0,Qualified,1.0,yes,yes,good
+418,Unknown,21.0,,new car,2782.0,Medium,Long,1.0,Female,none,2.0,car,31.0,bank,own,1.0,High Qualified,1.0,none,yes,good
+419,Medium,18.0,,new car,1042.0,Unknown,Medium,4.0,Female,none,2.0,life insurance,33.0,none,own,1.0,Qualified,1.0,none,yes,bad
+420,Unknown,15.0,,new car,3186.0,High,Long,2.0,Female,none,3.0,car,20.0,none,rent,1.0,Qualified,1.0,none,yes,good
+421,Medium,12.0,,used car,2028.0,Unknown,Medium,4.0,Male,none,2.0,car,30.0,none,own,1.0,Qualified,1.0,none,yes,good
+422,Medium,12.0,,new car,958.0,Very Low,Long,2.0,Male,none,3.0,real estate,47.0,none,own,2.0,Unqualified,2.0,none,yes,good
+423,Unknown,21.0,,furniture/equipment,1591.0,Low,Long,4.0,Male,none,3.0,real estate,34.0,none,own,2.0,High Qualified,1.0,none,yes,good
+424,Medium,12.0,,furniture/equipment,2762.0,Unknown,Very Long,1.0,Female,none,2.0,life insurance,25.0,bank,own,1.0,Qualified,1.0,yes,yes,bad
+425,Medium,18.0,,used car,2779.0,Very Low,Medium,1.0,Male,none,3.0,car,21.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+426,Unknown,28.0,,radio/tv,2743.0,Very Low,Very Long,4.0,Male,none,2.0,car,29.0,none,own,2.0,Qualified,1.0,none,yes,good
+427,Unknown,18.0,,radio/tv,1149.0,High,Medium,4.0,Male,none,3.0,real estate,46.0,none,own,2.0,Qualified,1.0,none,yes,good
+428,Unknown,9.0,,furniture/equipment,1313.0,Very Low,Very Long,1.0,Male,none,4.0,car,20.0,none,own,1.0,Qualified,1.0,none,yes,good
+429,Low,18.0,,repairs,1190.0,Very Low,,2.0,Female,none,4.0,no known property,55.0,none,for free,3.0,Unemployed,2.0,none,yes,bad
+430,Unknown,5.0,,business,3448.0,Very Low,Long,1.0,Male,none,4.0,real estate,74.0,none,own,1.0,Unqualified,1.0,none,yes,good
+431,Medium,24.0,,other,11328.0,Very Low,Medium,2.0,Male,co applicant,3.0,car,29.0,bank,own,2.0,High Qualified,1.0,yes,yes,bad
+432,Low,6.0,,furniture/equipment,1872.0,Very Low,,4.0,Male,none,4.0,no known property,36.0,none,for free,3.0,High Qualified,1.0,yes,yes,good
+433,Unknown,24.0,,repairs,2058.0,Very Low,Medium,4.0,Male,none,2.0,real estate,33.0,none,own,2.0,Qualified,1.0,yes,yes,good
+434,Low,9.0,,furniture/equipment,2136.0,Very Low,Medium,3.0,Male,none,2.0,real estate,25.0,none,own,1.0,Qualified,1.0,none,yes,good
+435,Medium,12.0,,radio/tv,1484.0,Unknown,Medium,2.0,Male,none,1.0,real estate,25.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+436,Unknown,6.0,,repairs,660.0,Medium,Long,2.0,Male,none,4.0,real estate,23.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+437,Unknown,24.0,,new car,1287.0,High,Very Long,4.0,Female,none,4.0,real estate,37.0,none,own,2.0,Qualified,1.0,yes,yes,good
+438,Low,42.0,,repairs,3394.0,Very Low,,4.0,Male,co applicant,4.0,car,65.0,none,own,2.0,Unemployed,1.0,none,yes,good
+439,High,12.0,,business,609.0,Very Low,Short,4.0,Female,none,1.0,real estate,26.0,none,own,1.0,Unemployed,1.0,none,yes,bad
+440,Unknown,12.0,,new car,1884.0,Very Low,Very Long,4.0,Male,none,4.0,car,39.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+441,Low,12.0,,furniture/equipment,1620.0,Very Low,Medium,2.0,Female,co applicant,3.0,life insurance,30.0,none,own,1.0,Qualified,1.0,none,yes,good
+442,Medium,20.0,,other,2629.0,Very Low,Medium,2.0,Male,none,3.0,car,29.0,bank,own,2.0,Qualified,1.0,yes,yes,good
+443,Unknown,12.0,,education,719.0,Very Low,Very Long,4.0,Male,none,4.0,car,41.0,bank,own,1.0,Unqualified,2.0,none,yes,bad
+444,Medium,48.0,,furniture/equipment,5096.0,Very Low,Medium,2.0,Female,none,3.0,car,30.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+445,Unknown,9.0,,education,1244.0,Unknown,Very Long,4.0,Female,none,4.0,life insurance,41.0,none,rent,2.0,Unqualified,1.0,none,yes,good
+446,Low,36.0,,new car,1842.0,Very Low,Short,4.0,Female,none,4.0,car,34.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+447,Medium,7.0,,radio/tv,2576.0,Very Low,Medium,2.0,Male,guarantor,2.0,real estate,35.0,none,own,1.0,Qualified,1.0,none,yes,good
+448,High,12.0,,furniture/equipment,1424.0,Unknown,Very Long,3.0,Female,none,4.0,real estate,55.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+449,Medium,15.0,,repairs,1512.0,High,Medium,3.0,Male,none,3.0,life insurance,61.0,stores,own,2.0,Qualified,1.0,none,yes,bad
+450,Unknown,36.0,,used car,11054.0,Unknown,Medium,4.0,Male,none,2.0,car,30.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+451,Unknown,6.0,,radio/tv,518.0,Very Low,Medium,3.0,Female,none,1.0,real estate,29.0,none,own,1.0,Qualified,1.0,none,yes,good
+452,Unknown,12.0,no credits,furniture/equipment,2759.0,Very Low,Very Long,2.0,Male,none,4.0,life insurance,34.0,none,own,2.0,Qualified,1.0,none,yes,good
+453,Unknown,24.0,,used car,2670.0,Very Low,Very Long,4.0,Male,none,4.0,car,35.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+454,Low,24.0,,new car,4817.0,Very Low,Long,2.0,Male,co applicant,3.0,life insurance,31.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+455,Unknown,24.0,,used car,2679.0,Very Low,Short,4.0,Female,none,1.0,no known property,29.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+456,Low,11.0,,new car,3905.0,Very Low,Medium,2.0,Male,none,2.0,real estate,36.0,none,rent,2.0,Qualified,2.0,none,yes,good
+457,Low,12.0,,used car,3386.0,Very Low,Very Long,3.0,Male,none,4.0,no known property,35.0,none,for free,1.0,Qualified,1.0,yes,yes,bad
+458,Low,6.0,,domestic appliance,343.0,Very Low,Short,4.0,Female,none,1.0,real estate,27.0,none,own,1.0,Qualified,1.0,none,yes,good
+459,Unknown,18.0,,radio/tv,4594.0,Very Low,Short,3.0,Male,none,2.0,car,32.0,none,own,1.0,Qualified,1.0,yes,yes,good
+460,Low,36.0,,furniture/equipment,3620.0,Very Low,Medium,1.0,Male,guarantor,2.0,life insurance,37.0,none,own,1.0,Qualified,2.0,none,yes,good
+461,Low,15.0,,new car,1721.0,Very Low,Short,2.0,Male,none,3.0,real estate,36.0,none,own,1.0,Qualified,1.0,none,yes,good
+462,Medium,12.0,,furniture/equipment,3017.0,Very Low,Short,3.0,Female,none,1.0,real estate,34.0,none,rent,1.0,High Qualified,1.0,none,yes,good
+463,Medium,12.0,,retraining,754.0,Unknown,Very Long,4.0,Male,none,4.0,life insurance,38.0,none,own,2.0,Qualified,1.0,none,yes,good
+464,Unknown,18.0,,business,1950.0,Very Low,Long,4.0,Male,none,1.0,car,34.0,stores,own,2.0,Qualified,1.0,yes,yes,good
+465,Low,24.0,,used car,2924.0,Very Low,Medium,3.0,Male,guarantor,4.0,no known property,63.0,bank,own,1.0,Qualified,2.0,yes,yes,good
+466,Low,24.0,,radio/tv,1659.0,Very Low,Short,4.0,Female,none,2.0,car,29.0,none,rent,1.0,Unqualified,1.0,yes,yes,bad
+467,Unknown,48.0,,radio/tv,7238.0,Unknown,Very Long,3.0,Male,none,3.0,car,32.0,bank,own,2.0,Qualified,2.0,none,yes,good
+468,Unknown,33.0,,business,2764.0,Very Low,Medium,2.0,Female,none,2.0,car,26.0,none,own,2.0,Qualified,1.0,yes,yes,good
+469,Unknown,24.0,,used car,4679.0,Very Low,Long,3.0,Male,none,3.0,car,35.0,none,own,2.0,Unqualified,1.0,yes,yes,good
+470,Medium,24.0,,radio/tv,3092.0,Low,Short,3.0,Male,none,2.0,car,22.0,none,rent,1.0,Qualified,1.0,yes,yes,bad
+471,Low,6.0,,education,448.0,Very Low,Short,4.0,Female,none,4.0,life insurance,23.0,none,own,1.0,Qualified,1.0,none,yes,bad
+472,Low,9.0,,new car,654.0,Very Low,Medium,4.0,Male,none,3.0,car,28.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+473,Unknown,6.0,,retraining,1238.0,Unknown,,4.0,Male,none,4.0,life insurance,36.0,none,own,1.0,High Qualified,2.0,yes,yes,good
+474,Medium,18.0,,radio/tv,1245.0,Very Low,Medium,4.0,Male,none,2.0,car,33.0,none,own,1.0,Qualified,1.0,none,yes,bad
+475,Low,18.0,no credits,furniture/equipment,3114.0,Very Low,Short,1.0,Female,none,4.0,life insurance,26.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+476,Unknown,39.0,,used car,2569.0,Medium,Medium,4.0,Male,none,4.0,car,24.0,none,own,1.0,Qualified,1.0,none,yes,good
+477,High,24.0,,radio/tv,5152.0,Very Low,Long,4.0,Male,none,2.0,car,25.0,bank,own,1.0,Qualified,1.0,none,yes,good
+478,Medium,12.0,,business,1037.0,Low,Long,3.0,Male,none,4.0,real estate,39.0,none,own,1.0,Unqualified,1.0,none,yes,good
+479,Low,15.0,,furniture/equipment,1478.0,Very Low,Very Long,4.0,Male,none,4.0,car,44.0,none,own,2.0,Qualified,2.0,yes,yes,good
+480,Medium,12.0,,radio/tv,3573.0,Very Low,Medium,1.0,Female,none,1.0,real estate,23.0,none,own,1.0,Unqualified,1.0,none,yes,good
+481,Medium,24.0,,new car,1201.0,Very Low,Short,4.0,Male,none,1.0,life insurance,26.0,none,own,1.0,Qualified,1.0,none,yes,good
+482,Low,30.0,,furniture/equipment,3622.0,High,Very Long,4.0,Female,none,4.0,life insurance,57.0,none,rent,2.0,Qualified,1.0,yes,yes,good
+483,Unknown,15.0,,furniture/equipment,960.0,High,Long,3.0,Female,none,2.0,life insurance,30.0,none,own,2.0,Qualified,1.0,none,yes,good
+484,Unknown,12.0,,new car,1163.0,Medium,Medium,4.0,Male,none,4.0,real estate,44.0,none,own,1.0,Qualified,1.0,yes,yes,good
+485,Medium,6.0,,new car,1209.0,Very Low,,4.0,Male,none,4.0,life insurance,47.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+486,Unknown,12.0,,radio/tv,3077.0,Very Low,Medium,2.0,Male,none,4.0,car,52.0,none,own,1.0,Qualified,1.0,yes,yes,good
+487,Unknown,24.0,,new car,3757.0,Very Low,Very Long,4.0,Female,co applicant,4.0,no known property,62.0,none,for free,1.0,Qualified,1.0,yes,yes,good
+488,Unknown,10.0,,new car,1418.0,Low,Medium,3.0,Male,none,2.0,real estate,35.0,none,rent,1.0,Unqualified,1.0,none,no,good
+489,Unknown,6.0,,new car,3518.0,Very Low,Medium,2.0,Male,guarantor,3.0,life insurance,26.0,none,rent,1.0,Qualified,1.0,none,yes,good
+490,Unknown,12.0,,radio/tv,1934.0,Very Low,Very Long,2.0,Male,none,2.0,no known property,26.0,none,own,2.0,Qualified,1.0,none,yes,good
+491,Medium,27.0,no credits,business,8318.0,Very Low,Very Long,2.0,Female,none,4.0,no known property,42.0,none,for free,2.0,High Qualified,1.0,yes,yes,bad
+492,Unknown,6.0,,radio/tv,1237.0,Low,Medium,1.0,Female,none,1.0,life insurance,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+493,Medium,6.0,,radio/tv,368.0,Unknown,Very Long,4.0,Male,none,4.0,life insurance,38.0,none,own,1.0,Qualified,1.0,none,yes,good
+494,Low,12.0,,new car,2122.0,Very Low,Medium,3.0,Male,none,2.0,real estate,39.0,none,rent,2.0,Unqualified,2.0,none,no,good
+495,Low,24.0,,furniture/equipment,2996.0,Unknown,Medium,2.0,Male,none,4.0,car,20.0,none,own,1.0,Qualified,1.0,none,yes,bad
+496,Medium,36.0,,furniture/equipment,9034.0,Low,Short,4.0,Male,co applicant,1.0,no known property,29.0,none,rent,1.0,High Qualified,1.0,yes,yes,bad
+497,Unknown,24.0,,furniture/equipment,1585.0,Very Low,Long,4.0,Male,none,3.0,life insurance,40.0,none,own,2.0,Qualified,1.0,none,yes,good
+498,Medium,18.0,,radio/tv,1301.0,Very Low,Very Long,4.0,Male,guarantor,2.0,real estate,32.0,none,own,1.0,Unqualified,1.0,none,yes,good
+499,High,6.0,,new car,1323.0,Low,Very Long,2.0,Male,none,4.0,car,28.0,none,own,2.0,Qualified,2.0,yes,yes,good
+500,Low,24.0,,new car,3123.0,Very Low,Short,4.0,Female,none,1.0,life insurance,27.0,none,own,1.0,Qualified,1.0,none,yes,bad
+501,Low,36.0,,used car,5493.0,Very Low,Very Long,2.0,Male,none,4.0,no known property,42.0,none,for free,1.0,Qualified,2.0,none,yes,good
+502,High,9.0,,radio/tv,1126.0,Low,Very Long,2.0,Male,none,4.0,real estate,49.0,none,own,1.0,Qualified,1.0,none,yes,good
+503,Medium,24.0,,radio/tv,1216.0,Low,Short,4.0,Male,none,4.0,no known property,38.0,bank,own,2.0,Qualified,2.0,none,yes,bad
+504,Low,24.0,,new car,1207.0,Very Low,Short,4.0,Female,none,4.0,life insurance,24.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+505,Unknown,10.0,,new car,1309.0,Unknown,Medium,4.0,Male,guarantor,4.0,life insurance,27.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+506,High,15.0,,used car,2360.0,Medium,Medium,2.0,Male,none,2.0,car,36.0,none,own,1.0,Qualified,1.0,yes,yes,good
+507,Medium,15.0,,new car,6850.0,Low,,1.0,Male,none,2.0,life insurance,34.0,none,own,1.0,High Qualified,2.0,yes,yes,bad
+508,Unknown,24.0,,radio/tv,1413.0,Very Low,Medium,4.0,Male,none,2.0,life insurance,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+509,Unknown,39.0,,used car,8588.0,Low,Very Long,4.0,Male,none,2.0,car,45.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+510,Low,12.0,,new car,759.0,Very Low,Long,4.0,Male,none,2.0,real estate,26.0,none,own,1.0,Qualified,1.0,none,yes,bad
+511,Unknown,36.0,,used car,4686.0,Very Low,Medium,2.0,Male,none,2.0,no known property,32.0,none,for free,1.0,High Qualified,1.0,yes,yes,good
+512,High,15.0,,business,2687.0,Very Low,Long,2.0,Male,none,4.0,life insurance,26.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+513,Medium,12.0,,radio/tv,585.0,Very Low,Medium,4.0,Male,co applicant,4.0,real estate,20.0,none,rent,2.0,Qualified,1.0,none,yes,good
+514,Unknown,24.0,,new car,2255.0,Unknown,Short,4.0,Male,none,1.0,life insurance,54.0,none,own,1.0,Qualified,1.0,none,yes,good
+515,Low,6.0,,new car,609.0,Very Low,Long,4.0,Female,none,3.0,life insurance,37.0,none,own,2.0,Qualified,1.0,none,no,good
+516,Low,6.0,,new car,1361.0,Very Low,Short,2.0,Male,none,4.0,real estate,40.0,none,own,1.0,Unqualified,2.0,none,no,good
+517,Unknown,36.0,,furniture/equipment,7127.0,Very Low,Short,2.0,Female,none,4.0,life insurance,23.0,none,rent,2.0,Qualified,1.0,yes,yes,bad
+518,Low,6.0,,new car,1203.0,Low,Very Long,3.0,Male,none,2.0,life insurance,43.0,none,own,1.0,Qualified,1.0,yes,yes,good
+519,Unknown,6.0,,radio/tv,700.0,Unknown,Very Long,4.0,Male,none,4.0,no known property,36.0,none,for free,2.0,Qualified,1.0,none,yes,good
+520,Unknown,24.0,,repairs,5507.0,Very Low,Very Long,3.0,Male,none,4.0,no known property,44.0,none,for free,2.0,Qualified,1.0,none,yes,good
+521,Low,18.0,,radio/tv,3190.0,Very Low,Medium,2.0,Female,none,2.0,real estate,24.0,none,own,1.0,Qualified,1.0,none,yes,bad
+522,Low,48.0,no credits,furniture/equipment,7119.0,Very Low,Medium,3.0,Male,none,4.0,no known property,53.0,none,for free,2.0,Qualified,2.0,none,yes,bad
+523,Unknown,24.0,,used car,3488.0,Low,Long,3.0,Female,none,4.0,car,23.0,none,own,1.0,Qualified,1.0,none,yes,good
+524,Medium,18.0,,radio/tv,1113.0,Very Low,Medium,4.0,Female,guarantor,4.0,real estate,26.0,none,own,1.0,Unqualified,2.0,none,yes,good
+525,Medium,26.0,,used car,7966.0,Very Low,Short,2.0,Male,none,3.0,car,30.0,none,own,2.0,Qualified,1.0,none,yes,good
+526,Unknown,15.0,,education,1532.0,Low,Medium,4.0,Female,none,3.0,car,31.0,none,own,1.0,Qualified,1.0,none,yes,good
+527,Unknown,4.0,,radio/tv,1503.0,Very Low,Long,2.0,Male,none,1.0,real estate,42.0,none,own,2.0,Unqualified,2.0,none,yes,good
+528,Low,36.0,,radio/tv,2302.0,Very Low,Medium,4.0,Male,none,4.0,car,31.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+529,Low,6.0,,new car,662.0,Very Low,Short,3.0,Male,none,4.0,real estate,41.0,none,own,1.0,Unqualified,2.0,yes,yes,good
+530,Medium,36.0,,education,2273.0,Very Low,Long,3.0,Male,none,1.0,car,32.0,none,own,2.0,Qualified,2.0,none,yes,good
+531,Medium,15.0,,new car,2631.0,Low,Medium,2.0,Female,none,4.0,car,28.0,none,rent,2.0,Qualified,1.0,yes,yes,bad
+532,Unknown,12.0,,used car,1503.0,Very Low,Medium,4.0,Male,none,4.0,real estate,41.0,none,rent,1.0,Qualified,1.0,none,yes,good
+533,Unknown,24.0,,radio/tv,1311.0,Low,Long,4.0,Male,none,3.0,life insurance,26.0,none,own,1.0,Qualified,1.0,yes,yes,good
+534,Unknown,24.0,,radio/tv,3105.0,Unknown,Short,4.0,Male,none,2.0,car,25.0,none,own,2.0,Qualified,1.0,none,yes,good
+535,High,21.0,,education,2319.0,Very Low,Short,2.0,Male,none,1.0,car,33.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+536,Low,6.0,,new car,1374.0,Unknown,,4.0,Female,none,3.0,life insurance,75.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+537,Medium,18.0,,furniture/equipment,3612.0,Very Low,Very Long,3.0,Female,none,4.0,life insurance,37.0,none,own,1.0,Qualified,1.0,yes,yes,good
+538,Low,48.0,,new car,7763.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,42.0,bank,for free,1.0,High Qualified,1.0,none,yes,bad
+539,High,18.0,,furniture/equipment,3049.0,Very Low,Short,1.0,Female,none,1.0,life insurance,45.0,stores,own,1.0,Unqualified,1.0,none,yes,good
+540,Medium,12.0,,radio/tv,1534.0,Very Low,Short,1.0,Male,none,1.0,real estate,23.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+541,Unknown,24.0,,new car,2032.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,60.0,none,for free,2.0,Qualified,1.0,yes,yes,good
+542,Low,30.0,,furniture/equipment,6350.0,Unknown,Very Long,4.0,Male,none,4.0,life insurance,31.0,none,own,1.0,Qualified,1.0,none,yes,bad
+543,High,18.0,,furniture/equipment,2864.0,Very Low,Medium,2.0,Male,none,1.0,real estate,34.0,none,own,1.0,Unqualified,2.0,none,yes,bad
+544,Unknown,12.0,,new car,1255.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,61.0,none,own,2.0,Unqualified,1.0,none,yes,good
+545,Low,24.0,,new car,1333.0,Very Low,,4.0,Male,none,2.0,real estate,43.0,none,for free,2.0,Qualified,2.0,none,yes,bad
+546,Unknown,24.0,,new car,2022.0,Very Low,Medium,4.0,Female,none,4.0,car,37.0,none,own,1.0,Qualified,1.0,yes,yes,good
+547,Unknown,24.0,,radio/tv,1552.0,Very Low,Long,3.0,Male,none,1.0,car,32.0,bank,own,1.0,Qualified,2.0,none,yes,good
+548,Low,12.0,,radio/tv,626.0,Very Low,Medium,4.0,Female,none,4.0,real estate,24.0,bank,own,1.0,Unqualified,1.0,none,yes,bad
+549,Unknown,48.0,,used car,8858.0,Unknown,Long,2.0,Male,none,1.0,no known property,35.0,none,for free,2.0,Qualified,1.0,yes,yes,good
+550,Unknown,12.0,,repairs,996.0,Unknown,Long,4.0,Female,none,4.0,real estate,23.0,none,own,2.0,Qualified,1.0,none,yes,good
+551,Unknown,6.0,,radio/tv,1750.0,Medium,Very Long,2.0,Male,none,4.0,life insurance,45.0,bank,own,1.0,Unqualified,2.0,none,yes,good
+552,Low,48.0,,radio/tv,6999.0,Very Low,Long,1.0,Male,guarantor,1.0,real estate,34.0,none,own,2.0,Qualified,1.0,yes,yes,bad
+553,Medium,12.0,,new car,1995.0,Low,Short,4.0,Male,none,1.0,car,27.0,none,own,1.0,Qualified,1.0,none,yes,good
+554,Medium,9.0,,education,1199.0,Very Low,Long,4.0,Female,none,4.0,life insurance,67.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+555,Medium,12.0,,radio/tv,1331.0,Very Low,Short,2.0,Male,none,1.0,car,22.0,stores,own,1.0,Qualified,1.0,none,yes,bad
+556,Medium,18.0,no credits,new car,2278.0,Low,Short,3.0,Female,none,3.0,car,28.0,none,own,2.0,Qualified,1.0,none,yes,bad
+557,Unknown,21.0,no credits,new car,5003.0,Unknown,Medium,1.0,Female,none,4.0,life insurance,29.0,bank,own,2.0,Qualified,1.0,yes,yes,bad
+558,Low,24.0,,furniture/equipment,3552.0,Very Low,Long,3.0,Male,none,4.0,car,27.0,bank,own,1.0,Qualified,1.0,none,yes,bad
+559,Medium,18.0,,furniture/equipment,1928.0,Very Low,Short,2.0,Male,none,2.0,real estate,31.0,none,own,2.0,Unqualified,1.0,none,yes,bad
+560,Low,24.0,,used car,2964.0,Unknown,Very Long,4.0,Male,none,4.0,no known property,49.0,bank,for free,1.0,Qualified,2.0,yes,yes,good
+561,Low,24.0,,radio/tv,1546.0,Very Low,Long,4.0,Male,guarantor,4.0,car,24.0,bank,rent,1.0,Unqualified,1.0,none,yes,bad
+562,High,6.0,,radio/tv,683.0,Very Low,Short,2.0,Female,none,1.0,life insurance,29.0,bank,own,1.0,Qualified,1.0,none,yes,good
+563,Medium,36.0,,new car,12389.0,Unknown,Medium,1.0,Male,none,4.0,no known property,37.0,none,for free,1.0,Qualified,1.0,yes,yes,bad
+564,Medium,24.0,,business,4712.0,Unknown,Medium,4.0,Male,none,2.0,life insurance,37.0,bank,own,2.0,High Qualified,1.0,yes,yes,good
+565,Medium,24.0,,radio/tv,1553.0,Low,Long,3.0,Female,none,2.0,life insurance,23.0,none,rent,2.0,Qualified,1.0,yes,yes,good
+566,Low,12.0,,new car,1372.0,Very Low,Long,2.0,Male,none,3.0,car,36.0,none,own,1.0,Qualified,1.0,none,yes,bad
+567,Unknown,24.0,,radio/tv,2578.0,High,Very Long,2.0,Male,none,2.0,car,34.0,none,own,1.0,Qualified,1.0,none,yes,good
+568,Medium,48.0,,radio/tv,3979.0,Unknown,Long,4.0,Male,none,1.0,car,41.0,none,own,2.0,Qualified,2.0,yes,yes,good
+569,Low,48.0,,radio/tv,6758.0,Very Low,Medium,3.0,Female,none,2.0,car,31.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+570,Low,24.0,,furniture/equipment,3234.0,Very Low,Short,4.0,Female,none,4.0,real estate,23.0,none,rent,1.0,Unqualified,1.0,yes,yes,bad
+571,Unknown,30.0,,radio/tv,5954.0,Very Low,Long,3.0,Male,co applicant,2.0,car,38.0,none,own,1.0,Qualified,1.0,none,yes,good
+572,Unknown,24.0,,used car,5433.0,Unknown,,2.0,Female,none,4.0,life insurance,26.0,none,rent,1.0,High Qualified,1.0,yes,yes,good
+573,Low,15.0,,business,806.0,Very Low,Medium,4.0,Female,none,4.0,life insurance,22.0,none,own,1.0,Unqualified,1.0,none,yes,good
+574,Medium,9.0,,radio/tv,1082.0,Very Low,Very Long,4.0,Male,none,4.0,car,27.0,none,own,2.0,Unqualified,1.0,none,yes,good
+575,Unknown,15.0,,furniture/equipment,2788.0,Very Low,Long,2.0,Female,co applicant,3.0,car,24.0,bank,own,2.0,Qualified,1.0,none,yes,good
+576,Medium,12.0,,radio/tv,2930.0,Very Low,Long,2.0,Female,none,1.0,real estate,27.0,none,own,1.0,Qualified,1.0,none,yes,good
+577,Unknown,24.0,,education,1927.0,Unknown,Medium,3.0,Female,none,2.0,car,33.0,none,own,2.0,Qualified,1.0,yes,yes,good
+578,Medium,36.0,,new car,2820.0,Very Low,Short,4.0,Male,none,4.0,car,27.0,none,own,2.0,Qualified,1.0,none,yes,bad
+579,Unknown,24.0,,retraining,937.0,Very Low,Short,4.0,Male,none,3.0,car,27.0,none,own,2.0,Unqualified,1.0,none,yes,good
+580,Medium,18.0,,new car,1056.0,Very Low,Very Long,3.0,Male,guarantor,3.0,real estate,30.0,bank,own,2.0,Qualified,1.0,none,yes,bad
+581,Medium,12.0,,new car,3124.0,Very Low,Short,1.0,Male,none,3.0,real estate,49.0,bank,own,2.0,Unqualified,2.0,none,yes,good
+582,Unknown,9.0,,furniture/equipment,1388.0,Very Low,Medium,4.0,Female,none,2.0,real estate,26.0,none,rent,1.0,Qualified,1.0,none,yes,good
+583,Medium,36.0,,repairs,2384.0,Very Low,Short,4.0,Male,none,1.0,no known property,33.0,none,rent,1.0,Unqualified,1.0,none,yes,bad
+584,Unknown,12.0,,new car,2133.0,Unknown,Very Long,4.0,Female,none,4.0,no known property,52.0,none,for free,1.0,High Qualified,1.0,yes,yes,good
+585,Low,18.0,,furniture/equipment,2039.0,Very Low,Medium,1.0,Female,none,4.0,real estate,20.0,bank,rent,1.0,Qualified,1.0,none,yes,bad
+586,Low,9.0,,new car,2799.0,Very Low,Medium,2.0,Male,none,2.0,real estate,36.0,none,rent,2.0,Qualified,2.0,none,yes,good
+587,Low,12.0,,furniture/equipment,1289.0,Very Low,Medium,4.0,Male,guarantor,1.0,life insurance,21.0,none,own,1.0,Unqualified,1.0,none,yes,good
+588,Low,18.0,,domestic appliance,1217.0,Very Low,Medium,4.0,Male,none,3.0,real estate,47.0,none,own,1.0,Unqualified,1.0,yes,yes,bad
+589,Low,12.0,,furniture/equipment,2246.0,Very Low,Very Long,3.0,Male,none,3.0,life insurance,60.0,none,own,2.0,Qualified,1.0,none,yes,bad
+590,Low,12.0,,radio/tv,385.0,Very Low,Long,4.0,Female,none,3.0,real estate,58.0,none,own,4.0,Unqualified,1.0,yes,yes,good
+591,Medium,24.0,,new car,1965.0,Unknown,Medium,4.0,Female,none,4.0,car,42.0,none,rent,2.0,Qualified,1.0,yes,yes,good
+592,Unknown,21.0,,business,1572.0,High,Very Long,4.0,Female,none,4.0,real estate,36.0,bank,own,1.0,Unqualified,1.0,none,yes,good
+593,Medium,24.0,,new car,2718.0,Very Low,Medium,3.0,Female,none,4.0,life insurance,20.0,none,rent,1.0,Unqualified,1.0,yes,yes,bad
+594,Low,24.0,,other,1358.0,Unknown,Very Long,4.0,Male,none,3.0,car,40.0,stores,own,1.0,High Qualified,1.0,yes,yes,bad
+595,Medium,6.0,,new car,931.0,Low,Short,1.0,Female,none,1.0,life insurance,32.0,stores,own,1.0,Unqualified,1.0,none,yes,bad
+596,Low,24.0,,new car,1442.0,Very Low,Long,4.0,Female,none,4.0,car,23.0,none,rent,2.0,Qualified,1.0,none,yes,bad
+597,Medium,24.0,no credits,business,4241.0,Very Low,Medium,1.0,Male,none,4.0,real estate,36.0,none,own,3.0,Unqualified,1.0,yes,yes,bad
+598,Unknown,18.0,,new car,2775.0,Very Low,Long,2.0,Male,none,2.0,life insurance,31.0,bank,own,2.0,Qualified,1.0,none,yes,bad
+599,Unknown,24.0,,business,3863.0,Very Low,Medium,1.0,Male,none,2.0,no known property,32.0,none,for free,1.0,Qualified,1.0,none,yes,good
+600,Medium,7.0,,radio/tv,2329.0,Very Low,Short,1.0,Female,guarantor,1.0,real estate,45.0,none,own,1.0,Qualified,1.0,none,yes,good
+601,Medium,9.0,,furniture/equipment,918.0,Very Low,Medium,4.0,Female,none,1.0,life insurance,30.0,none,own,1.0,Qualified,1.0,none,yes,bad
+602,Medium,24.0,,education,1837.0,Very Low,Long,4.0,Female,none,4.0,no known property,34.0,bank,for free,1.0,Unqualified,1.0,none,yes,bad
+603,Unknown,36.0,,furniture/equipment,3349.0,Very Low,Medium,4.0,Female,none,2.0,car,28.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+604,High,10.0,,furniture/equipment,1275.0,Very Low,Short,4.0,Female,none,2.0,life insurance,23.0,none,own,1.0,Qualified,1.0,none,yes,good
+605,Low,24.0,,furniture/equipment,2828.0,Medium,Medium,4.0,Male,none,4.0,real estate,22.0,stores,own,1.0,Qualified,1.0,yes,yes,good
+606,Unknown,24.0,,business,4526.0,Very Low,Medium,3.0,Male,none,2.0,real estate,74.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+607,Medium,36.0,,radio/tv,2671.0,Low,Medium,4.0,Female,co applicant,4.0,no known property,50.0,none,for free,1.0,Qualified,1.0,none,yes,bad
+608,Unknown,18.0,,radio/tv,2051.0,Very Low,Short,4.0,Male,none,1.0,real estate,33.0,none,own,1.0,Qualified,1.0,none,yes,good
+609,Unknown,15.0,,used car,1300.0,Unknown,Very Long,4.0,Male,none,4.0,no known property,45.0,bank,for free,1.0,Qualified,2.0,none,yes,good
+610,Low,12.0,,domestic appliance,741.0,Low,,4.0,Female,none,3.0,life insurance,22.0,none,own,1.0,Qualified,1.0,none,yes,bad
+611,High,10.0,,new car,1240.0,Low,Very Long,1.0,Female,none,4.0,no known property,48.0,none,for free,1.0,Unqualified,2.0,none,yes,bad
+612,Low,21.0,,radio/tv,3357.0,High,Short,4.0,Female,none,2.0,car,29.0,bank,own,1.0,Qualified,1.0,none,yes,good
+613,Low,24.0,,used car,3632.0,Very Low,Medium,1.0,Female,guarantor,4.0,car,22.0,bank,rent,1.0,Qualified,1.0,none,no,good
+614,Unknown,18.0,,furniture/equipment,1808.0,Very Low,Long,4.0,Female,none,1.0,real estate,22.0,none,own,1.0,Qualified,1.0,none,yes,bad
+615,Medium,48.0,no credits,business,12204.0,Unknown,Medium,2.0,Male,none,2.0,car,48.0,bank,own,1.0,High Qualified,1.0,yes,yes,good
+616,Medium,60.0,,radio/tv,9157.0,Unknown,Medium,2.0,Male,none,2.0,no known property,27.0,none,for free,1.0,High Qualified,1.0,none,yes,good
+617,Low,6.0,,new car,3676.0,Very Low,Medium,1.0,Male,none,3.0,real estate,37.0,none,rent,3.0,Qualified,2.0,none,yes,good
+618,Medium,30.0,,furniture/equipment,3441.0,Low,Medium,2.0,Female,co applicant,4.0,car,21.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+619,Unknown,12.0,,new car,640.0,Very Low,Medium,4.0,Male,none,2.0,real estate,49.0,none,own,1.0,Unqualified,1.0,none,yes,good
+620,Medium,21.0,,business,3652.0,Very Low,Long,2.0,Male,none,3.0,life insurance,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+621,Unknown,18.0,,new car,1530.0,Very Low,Medium,3.0,Male,none,2.0,life insurance,32.0,bank,own,2.0,Qualified,1.0,none,yes,bad
+622,Unknown,48.0,,business,3914.0,Unknown,Medium,4.0,Male,none,2.0,real estate,38.0,bank,own,1.0,Qualified,1.0,none,yes,bad
+623,Low,12.0,,furniture/equipment,1858.0,Very Low,Short,4.0,Female,none,1.0,car,22.0,none,rent,1.0,Qualified,1.0,none,yes,good
+624,Low,18.0,,radio/tv,2600.0,Very Low,Medium,4.0,Male,none,4.0,no known property,65.0,none,for free,2.0,Qualified,1.0,none,yes,bad
+625,Unknown,15.0,,radio/tv,1979.0,Unknown,Very Long,4.0,Male,none,2.0,car,35.0,none,own,1.0,Qualified,1.0,none,yes,good
+626,High,6.0,,furniture/equipment,2116.0,Very Low,Medium,2.0,Male,none,2.0,real estate,41.0,none,own,1.0,Qualified,1.0,yes,yes,good
+627,Medium,9.0,,new car,1437.0,Low,Long,2.0,Male,none,3.0,no known property,29.0,none,own,1.0,Qualified,1.0,none,yes,bad
+628,Unknown,42.0,,furniture/equipment,4042.0,Medium,Medium,4.0,Male,none,4.0,real estate,36.0,none,own,2.0,Qualified,1.0,yes,yes,good
+629,Unknown,9.0,,education,3832.0,Unknown,Very Long,1.0,Male,none,4.0,real estate,64.0,none,own,1.0,Unqualified,1.0,none,yes,good
+630,Low,24.0,,radio/tv,3660.0,Very Low,Medium,2.0,Female,none,4.0,car,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+631,Low,18.0,,furniture/equipment,1553.0,Very Low,Medium,4.0,Male,none,3.0,car,44.0,bank,own,1.0,Qualified,1.0,none,yes,bad
+632,Medium,15.0,,radio/tv,1444.0,Unknown,Short,4.0,Male,none,1.0,life insurance,23.0,none,own,1.0,Qualified,1.0,none,yes,good
+633,Unknown,9.0,,furniture/equipment,1980.0,Very Low,Short,2.0,Female,co applicant,2.0,car,19.0,none,rent,2.0,Qualified,1.0,none,yes,bad
+634,Medium,24.0,,new car,1355.0,Very Low,Short,3.0,Female,none,4.0,car,25.0,none,own,1.0,Unqualified,1.0,yes,yes,bad
+635,Unknown,12.0,,education,1393.0,Very Low,Very Long,4.0,Male,none,4.0,life insurance,47.0,bank,own,3.0,Qualified,2.0,yes,yes,good
+636,Unknown,24.0,,radio/tv,1376.0,Medium,Long,4.0,Female,none,1.0,car,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+637,Unknown,60.0,,radio/tv,15653.0,Very Low,Long,2.0,Male,none,4.0,car,21.0,none,own,2.0,Qualified,1.0,yes,yes,good
+638,Unknown,12.0,,radio/tv,1493.0,Very Low,Short,4.0,Female,none,3.0,car,34.0,none,own,1.0,Qualified,2.0,none,yes,good
+639,Low,42.0,,radio/tv,4370.0,Very Low,Long,3.0,Male,none,2.0,life insurance,26.0,bank,own,2.0,Qualified,2.0,yes,yes,bad
+640,Low,18.0,,education,750.0,Very Low,,4.0,Female,none,1.0,real estate,27.0,none,own,1.0,Unemployed,1.0,none,yes,bad
+641,Medium,15.0,,repairs,1308.0,Very Low,Very Long,4.0,Male,none,4.0,car,38.0,none,own,2.0,Unqualified,1.0,none,yes,good
+642,Unknown,15.0,,education,4623.0,Low,Medium,3.0,Male,none,2.0,life insurance,40.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+643,Unknown,24.0,,radio/tv,1851.0,Very Low,Long,4.0,Male,guarantor,2.0,car,33.0,none,own,2.0,Qualified,1.0,yes,yes,good
+644,Low,18.0,,radio/tv,1880.0,Very Low,Long,4.0,Male,none,1.0,life insurance,32.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+645,Unknown,36.0,,business,7980.0,Unknown,Short,4.0,Male,none,4.0,car,27.0,none,rent,2.0,Qualified,1.0,yes,yes,bad
+646,Low,30.0,no credits,furniture/equipment,4583.0,Very Low,Medium,2.0,Male,guarantor,2.0,real estate,32.0,none,own,2.0,Qualified,1.0,none,yes,good
+647,Unknown,12.0,,new car,1386.0,Medium,Medium,2.0,Female,none,2.0,life insurance,26.0,none,own,1.0,Qualified,1.0,none,yes,bad
+648,High,24.0,,new car,947.0,Very Low,Long,4.0,Male,none,3.0,no known property,38.0,bank,for free,1.0,Qualified,2.0,none,yes,bad
+649,Low,12.0,,education,684.0,Very Low,Medium,4.0,Male,none,4.0,car,40.0,none,rent,1.0,Unqualified,2.0,none,yes,bad
+650,Low,48.0,,education,7476.0,Very Low,Long,4.0,Male,none,1.0,no known property,50.0,none,for free,1.0,High Qualified,1.0,yes,yes,good
+651,Medium,12.0,,furniture/equipment,1922.0,Very Low,Medium,4.0,Male,none,2.0,life insurance,37.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+652,Low,24.0,,new car,2303.0,Very Low,Very Long,4.0,Male,co applicant,1.0,real estate,45.0,none,own,1.0,Qualified,1.0,none,yes,bad
+653,Medium,36.0,,new car,8086.0,Low,Very Long,2.0,Male,none,4.0,car,42.0,none,own,4.0,High Qualified,1.0,yes,yes,bad
+654,Unknown,24.0,,used car,2346.0,Very Low,Long,4.0,Male,none,3.0,car,35.0,none,own,2.0,Qualified,1.0,yes,yes,good
+655,Low,14.0,,new car,3973.0,Very Low,,1.0,Male,none,4.0,no known property,22.0,none,for free,1.0,Qualified,1.0,none,yes,good
+656,Medium,12.0,,new car,888.0,Very Low,Very Long,4.0,Male,none,4.0,car,41.0,bank,own,1.0,Unqualified,2.0,none,yes,bad
+657,Unknown,48.0,,radio/tv,10222.0,Unknown,Long,4.0,Male,none,3.0,car,37.0,stores,own,1.0,Qualified,1.0,yes,yes,good
+658,Medium,30.0,no credits,business,4221.0,Very Low,Medium,2.0,Female,none,1.0,car,28.0,none,own,2.0,Qualified,1.0,none,yes,good
+659,Medium,18.0,,furniture/equipment,6361.0,Very Low,Very Long,2.0,Male,none,1.0,no known property,41.0,none,own,1.0,Qualified,1.0,yes,yes,good
+660,High,12.0,,radio/tv,1297.0,Very Low,Medium,3.0,Male,none,4.0,real estate,23.0,none,rent,1.0,Qualified,1.0,none,yes,good
+661,Low,12.0,,new car,900.0,Unknown,Medium,4.0,Male,none,2.0,car,23.0,none,own,1.0,Qualified,1.0,none,yes,bad
+662,Unknown,21.0,,furniture/equipment,2241.0,Very Low,Very Long,4.0,Male,none,2.0,real estate,50.0,none,own,2.0,Qualified,1.0,none,yes,good
+663,Medium,6.0,,furniture/equipment,1050.0,Very Low,,4.0,Male,none,1.0,life insurance,35.0,stores,own,2.0,High Qualified,1.0,yes,yes,good
+664,High,6.0,,education,1047.0,Very Low,Medium,2.0,Female,none,4.0,life insurance,50.0,none,own,1.0,Unqualified,1.0,none,yes,good
+665,Unknown,24.0,,other,6314.0,Very Low,,4.0,Male,co applicant,2.0,no known property,27.0,bank,own,2.0,High Qualified,1.0,yes,yes,good
+666,Medium,30.0,,furniture/equipment,3496.0,High,Medium,4.0,Male,none,2.0,car,34.0,stores,own,1.0,Qualified,2.0,yes,yes,good
+667,Unknown,48.0,,business,3609.0,Very Low,Medium,1.0,Female,none,1.0,real estate,27.0,stores,own,1.0,Qualified,1.0,none,yes,good
+668,Low,12.0,,new car,4843.0,Very Low,Very Long,3.0,Male,co applicant,4.0,life insurance,43.0,none,rent,2.0,Qualified,1.0,yes,yes,bad
+669,High,30.0,,radio/tv,3017.0,Very Low,Very Long,4.0,Male,none,4.0,life insurance,47.0,none,own,1.0,Qualified,1.0,none,yes,good
+670,Unknown,24.0,,business,4139.0,Low,Medium,3.0,Male,none,3.0,life insurance,27.0,none,own,2.0,Unqualified,1.0,yes,yes,good
+671,Unknown,36.0,,business,5742.0,Low,Long,2.0,Male,none,2.0,car,31.0,none,own,2.0,Qualified,1.0,yes,yes,good
+672,Unknown,60.0,,new car,10366.0,Very Low,Very Long,2.0,Male,none,4.0,life insurance,42.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+673,Unknown,6.0,,new car,2080.0,Medium,Medium,1.0,Male,none,2.0,car,24.0,none,own,1.0,Qualified,1.0,none,yes,good
+674,Unknown,21.0,,business,2580.0,Medium,Short,4.0,Male,none,2.0,real estate,41.0,bank,own,1.0,Unqualified,2.0,none,yes,bad
+675,Unknown,30.0,,radio/tv,4530.0,Very Low,Long,4.0,Female,none,4.0,car,26.0,none,rent,1.0,High Qualified,1.0,yes,yes,good
+676,Unknown,24.0,,furniture/equipment,5150.0,Very Low,Very Long,4.0,Male,none,4.0,car,33.0,none,own,1.0,Qualified,1.0,yes,yes,good
+677,Medium,72.0,,radio/tv,5595.0,Low,Medium,2.0,Male,none,2.0,car,24.0,none,own,1.0,Qualified,1.0,none,yes,bad
+678,Low,24.0,,radio/tv,2384.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,64.0,bank,rent,1.0,Unqualified,1.0,none,yes,good
+679,Unknown,18.0,,radio/tv,1453.0,Very Low,Short,3.0,Female,none,1.0,real estate,26.0,none,own,1.0,Qualified,1.0,none,yes,good
+680,Unknown,6.0,,education,1538.0,Very Low,Short,1.0,Female,none,2.0,no known property,56.0,none,own,1.0,Qualified,1.0,none,yes,good
+681,Unknown,12.0,,radio/tv,2279.0,Unknown,Medium,4.0,Male,none,4.0,no known property,37.0,none,for free,1.0,Qualified,1.0,yes,yes,good
+682,Unknown,15.0,,radio/tv,1478.0,Very Low,Medium,4.0,Male,none,3.0,real estate,33.0,bank,own,2.0,Qualified,1.0,none,yes,good
+683,Unknown,24.0,,radio/tv,5103.0,Very Low,Short,3.0,Male,none,3.0,no known property,47.0,none,for free,3.0,Qualified,1.0,yes,yes,good
+684,Medium,36.0,,business,9857.0,Low,Long,1.0,Male,none,3.0,life insurance,31.0,none,own,2.0,Unqualified,2.0,yes,yes,good
+685,Unknown,60.0,,new car,6527.0,Unknown,Medium,4.0,Male,none,4.0,no known property,34.0,none,for free,1.0,Qualified,2.0,yes,yes,good
+686,High,10.0,,radio/tv,1347.0,Unknown,Long,4.0,Male,none,2.0,life insurance,27.0,none,own,2.0,Qualified,1.0,yes,yes,good
+687,Medium,36.0,,new car,2862.0,Low,Very Long,4.0,Male,none,3.0,no known property,30.0,none,for free,1.0,Qualified,1.0,none,yes,good
+688,Unknown,9.0,,radio/tv,2753.0,Low,Very Long,3.0,Male,co applicant,4.0,car,35.0,none,own,1.0,Qualified,1.0,yes,yes,good
+689,Low,12.0,,new car,3651.0,High,Medium,1.0,Male,none,3.0,life insurance,31.0,none,own,1.0,Qualified,2.0,none,yes,good
+690,Low,15.0,,furniture/equipment,975.0,Very Low,Medium,2.0,Male,none,3.0,life insurance,25.0,none,own,2.0,Qualified,1.0,none,yes,good
+691,Medium,15.0,,repairs,2631.0,Low,Medium,3.0,Female,none,2.0,real estate,25.0,none,own,1.0,Unqualified,1.0,none,yes,good
+692,Medium,24.0,,radio/tv,2896.0,Low,Short,2.0,Male,none,1.0,car,29.0,none,own,1.0,Qualified,1.0,none,yes,good
+693,Low,6.0,,new car,4716.0,Unknown,Short,1.0,Male,none,3.0,real estate,44.0,none,own,2.0,Unqualified,2.0,none,yes,good
+694,Unknown,24.0,,radio/tv,2284.0,Very Low,Long,4.0,Male,none,2.0,car,28.0,none,own,1.0,Qualified,1.0,yes,yes,good
+695,Unknown,6.0,,used car,1236.0,Medium,Medium,2.0,Male,none,4.0,life insurance,50.0,none,rent,1.0,Qualified,1.0,none,yes,good
+696,Medium,12.0,,radio/tv,1103.0,Very Low,Long,4.0,Male,guarantor,3.0,real estate,29.0,none,own,2.0,Qualified,1.0,none,no,good
+697,Unknown,12.0,,new car,926.0,Very Low,,1.0,Female,none,2.0,life insurance,38.0,none,own,1.0,Unemployed,1.0,none,yes,good
+698,Unknown,18.0,,radio/tv,1800.0,Very Low,Medium,4.0,Male,none,2.0,car,24.0,none,own,2.0,Qualified,1.0,none,yes,good
+699,High,15.0,,education,1905.0,Very Low,Very Long,4.0,Male,none,4.0,car,40.0,none,rent,1.0,High Qualified,1.0,yes,yes,good
+700,Unknown,12.0,,furniture/equipment,1123.0,Medium,Medium,4.0,Female,none,4.0,car,29.0,none,rent,1.0,Unqualified,1.0,none,yes,bad
+701,Low,48.0,,used car,6331.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,46.0,none,for free,2.0,Qualified,1.0,yes,yes,bad
+702,High,24.0,,radio/tv,1377.0,Low,Very Long,4.0,Female,none,2.0,no known property,47.0,none,for free,1.0,Qualified,1.0,yes,yes,good
+703,Medium,30.0,,business,2503.0,Low,Very Long,4.0,Male,none,2.0,life insurance,41.0,stores,own,2.0,Qualified,1.0,none,yes,good
+704,Medium,27.0,,business,2528.0,Very Low,Short,4.0,Female,none,1.0,life insurance,32.0,none,own,1.0,Qualified,2.0,yes,yes,good
+705,Unknown,15.0,,new car,5324.0,Medium,Very Long,1.0,Female,none,4.0,no known property,35.0,none,for free,1.0,Qualified,1.0,none,yes,good
+706,Medium,48.0,,new car,6560.0,Low,Long,3.0,Male,none,2.0,life insurance,24.0,none,own,1.0,Qualified,1.0,none,yes,bad
+707,Medium,12.0,no credits,furniture/equipment,2969.0,Very Low,Short,4.0,Female,none,3.0,life insurance,25.0,none,rent,2.0,Qualified,1.0,none,yes,bad
+708,Medium,9.0,,radio/tv,1206.0,Very Low,Very Long,4.0,Female,none,4.0,real estate,25.0,none,own,1.0,Qualified,1.0,none,yes,good
+709,Medium,9.0,,radio/tv,2118.0,Very Low,Medium,2.0,Male,none,2.0,real estate,37.0,none,own,1.0,Unqualified,2.0,none,yes,good
+710,Unknown,18.0,,radio/tv,629.0,Medium,Very Long,4.0,Male,none,3.0,life insurance,32.0,bank,own,2.0,High Qualified,1.0,yes,yes,good
+711,Low,6.0,,education,1198.0,Very Low,Very Long,4.0,Female,none,4.0,no known property,35.0,none,for free,1.0,Qualified,1.0,none,yes,bad
+712,Unknown,21.0,,used car,2476.0,Unknown,Very Long,4.0,Male,none,4.0,real estate,46.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+713,Low,9.0,,radio/tv,1138.0,Very Low,Medium,4.0,Male,none,4.0,real estate,25.0,none,own,2.0,Unqualified,1.0,none,yes,good
+714,Medium,60.0,,new car,14027.0,Very Low,Long,4.0,Male,none,2.0,no known property,27.0,none,own,1.0,High Qualified,1.0,yes,yes,bad
+715,Unknown,30.0,,used car,7596.0,Unknown,Very Long,1.0,Male,none,4.0,car,63.0,none,own,2.0,Qualified,1.0,none,yes,good
+716,Unknown,30.0,,radio/tv,3077.0,Unknown,Very Long,3.0,Male,none,2.0,car,40.0,none,own,2.0,Qualified,2.0,yes,yes,good
+717,Unknown,18.0,,radio/tv,1505.0,Very Low,Medium,4.0,Male,none,2.0,no known property,32.0,none,for free,1.0,High Qualified,1.0,yes,yes,good
+718,High,24.0,,radio/tv,3148.0,Unknown,Medium,3.0,Male,none,2.0,car,31.0,none,own,2.0,Qualified,1.0,yes,yes,good
+719,Medium,20.0,no credits,used car,6148.0,Low,Very Long,3.0,Male,none,4.0,car,31.0,bank,own,2.0,Qualified,1.0,yes,yes,good
+720,High,9.0,no credits,radio/tv,1337.0,Very Low,Short,4.0,Male,none,2.0,car,34.0,none,own,2.0,High Qualified,1.0,yes,yes,bad
+721,Medium,6.0,,education,433.0,High,Short,4.0,Female,none,2.0,life insurance,24.0,bank,rent,1.0,Qualified,2.0,none,yes,bad
+722,Low,12.0,,new car,1228.0,Very Low,Medium,4.0,Female,none,2.0,real estate,24.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+723,Medium,9.0,,radio/tv,790.0,Medium,Medium,4.0,Female,none,3.0,real estate,66.0,none,own,1.0,Unqualified,1.0,none,yes,good
+724,Unknown,27.0,,new car,2570.0,Very Low,Medium,3.0,Female,none,3.0,real estate,21.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+725,Unknown,6.0,,new car,250.0,High,Medium,2.0,Female,none,2.0,real estate,41.0,bank,own,2.0,Unqualified,1.0,none,yes,good
+726,Unknown,15.0,,radio/tv,1316.0,Medium,Medium,2.0,Male,none,2.0,life insurance,47.0,none,own,2.0,Unqualified,1.0,none,yes,good
+727,Low,18.0,,radio/tv,1882.0,Very Low,Medium,4.0,Female,none,4.0,car,25.0,bank,rent,2.0,Qualified,1.0,none,yes,bad
+728,Medium,48.0,,business,6416.0,Very Low,Very Long,4.0,Female,none,3.0,no known property,59.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+729,High,24.0,,business,1275.0,High,Medium,2.0,Male,none,4.0,real estate,36.0,none,own,2.0,Qualified,1.0,yes,yes,good
+730,Medium,24.0,,radio/tv,6403.0,Very Low,Short,1.0,Male,none,2.0,car,33.0,none,own,1.0,Qualified,1.0,none,yes,good
+731,Low,24.0,,radio/tv,1987.0,Very Low,Medium,2.0,Male,none,4.0,real estate,21.0,none,rent,1.0,Unqualified,2.0,none,yes,bad
+732,Medium,8.0,,radio/tv,760.0,Very Low,Long,4.0,Female,guarantor,2.0,real estate,44.0,none,own,1.0,Unqualified,1.0,none,yes,good
+733,Unknown,24.0,,used car,2603.0,High,Medium,2.0,Female,none,4.0,car,28.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+734,Unknown,4.0,,new car,3380.0,Very Low,Long,1.0,Female,none,1.0,real estate,37.0,none,own,1.0,Qualified,2.0,none,yes,good
+735,Medium,36.0,,domestic appliance,3990.0,Unknown,Short,3.0,Female,none,2.0,no known property,29.0,bank,own,1.0,Unemployed,1.0,none,yes,good
+736,Medium,24.0,,used car,11560.0,Very Low,Medium,1.0,Female,none,4.0,car,23.0,none,rent,2.0,High Qualified,1.0,none,yes,bad
+737,Low,18.0,,new car,4380.0,Low,Medium,3.0,Male,none,4.0,car,35.0,none,own,1.0,Unqualified,2.0,yes,yes,good
+738,Unknown,6.0,,new car,6761.0,Very Low,Long,1.0,Male,none,3.0,no known property,45.0,none,own,2.0,High Qualified,2.0,yes,yes,good
+739,Medium,30.0,no credits,business,4280.0,Low,Medium,4.0,Female,none,4.0,car,26.0,none,rent,2.0,Unqualified,1.0,none,yes,bad
+740,Low,24.0,,new car,2325.0,Low,Long,2.0,Male,none,3.0,car,32.0,bank,own,1.0,Qualified,1.0,none,yes,good
+741,Medium,10.0,,radio/tv,1048.0,Very Low,Medium,4.0,Male,none,4.0,real estate,23.0,stores,own,1.0,Unqualified,1.0,none,yes,good
+742,Unknown,21.0,,radio/tv,3160.0,Unknown,Very Long,4.0,Male,none,3.0,life insurance,41.0,none,own,1.0,Qualified,1.0,yes,yes,good
+743,Low,24.0,,furniture/equipment,2483.0,Medium,Medium,4.0,Male,none,4.0,real estate,22.0,stores,own,1.0,Qualified,1.0,yes,yes,good
+744,Low,39.0,,furniture/equipment,14179.0,Unknown,Long,4.0,Male,none,4.0,life insurance,30.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+745,Low,13.0,,business,1797.0,Very Low,Short,3.0,Male,none,1.0,life insurance,28.0,bank,own,2.0,Unqualified,1.0,none,yes,good
+746,Low,15.0,,new car,2511.0,Very Low,,1.0,Female,none,4.0,car,23.0,none,rent,1.0,Qualified,1.0,none,yes,good
+747,Low,12.0,,new car,1274.0,Very Low,Short,3.0,Female,none,1.0,real estate,37.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+748,Unknown,21.0,,used car,5248.0,Unknown,Medium,1.0,Male,none,3.0,car,26.0,none,own,1.0,Qualified,1.0,none,yes,good
+749,Unknown,15.0,,used car,3029.0,Very Low,Long,2.0,Male,none,2.0,car,33.0,none,own,1.0,Qualified,1.0,none,yes,good
+750,Low,6.0,,furniture/equipment,428.0,Very Low,Very Long,2.0,Female,none,1.0,life insurance,49.0,bank,own,1.0,Qualified,1.0,yes,yes,good
+751,Low,18.0,,new car,976.0,Very Low,Short,1.0,Female,none,2.0,car,23.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+752,Medium,12.0,,business,841.0,Low,Long,2.0,Female,none,4.0,real estate,23.0,none,rent,1.0,Unqualified,1.0,none,yes,good
+753,Unknown,30.0,,radio/tv,5771.0,Very Low,Long,4.0,Female,none,2.0,car,25.0,none,own,2.0,Qualified,1.0,none,yes,good
+754,Unknown,12.0,,repairs,1555.0,High,Very Long,4.0,Male,none,4.0,no known property,55.0,none,for free,2.0,Qualified,2.0,none,yes,bad
+755,Low,24.0,,new car,1285.0,Unknown,Long,4.0,Female,none,4.0,no known property,32.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+756,High,6.0,,new car,1299.0,Very Low,Medium,1.0,Male,none,1.0,real estate,74.0,none,own,3.0,Unemployed,2.0,none,no,good
+757,High,15.0,,radio/tv,1271.0,Unknown,Medium,3.0,Male,none,4.0,no known property,39.0,none,for free,2.0,Qualified,1.0,yes,yes,bad
+758,Unknown,24.0,,new car,1393.0,Very Low,Medium,2.0,Male,guarantor,2.0,real estate,31.0,none,own,1.0,Qualified,1.0,yes,yes,good
+759,Low,12.0,,new car,691.0,Very Low,Very Long,4.0,Male,none,3.0,life insurance,35.0,none,own,2.0,Qualified,1.0,none,yes,bad
+760,Unknown,15.0,,new car,5045.0,Unknown,Very Long,1.0,Female,none,4.0,car,59.0,none,own,1.0,Qualified,1.0,yes,yes,good
+761,Low,18.0,,furniture/equipment,2124.0,Very Low,Medium,4.0,Female,none,4.0,real estate,24.0,none,rent,2.0,Qualified,1.0,none,yes,bad
+762,Low,12.0,,radio/tv,2214.0,Very Low,Medium,4.0,Male,none,3.0,life insurance,24.0,none,own,1.0,Unqualified,1.0,none,yes,good
+763,Unknown,21.0,,new car,12680.0,Unknown,Very Long,4.0,Male,none,4.0,no known property,30.0,none,for free,1.0,High Qualified,1.0,yes,yes,bad
+764,Unknown,24.0,,new car,2463.0,Low,Long,4.0,Male,none,3.0,life insurance,27.0,none,own,2.0,Qualified,1.0,yes,yes,good
+765,Medium,12.0,,radio/tv,1155.0,Very Low,Very Long,3.0,Male,guarantor,3.0,real estate,40.0,bank,own,2.0,Unqualified,1.0,none,yes,good
+766,Low,30.0,,furniture/equipment,3108.0,Very Low,Short,2.0,Male,none,4.0,life insurance,31.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+767,Unknown,10.0,,used car,2901.0,Unknown,Short,1.0,Female,none,4.0,real estate,31.0,none,rent,1.0,Qualified,1.0,none,yes,good
+768,Medium,12.0,,furniture/equipment,3617.0,Very Low,Very Long,1.0,Male,none,4.0,car,28.0,none,rent,3.0,Qualified,1.0,yes,yes,good
+769,Unknown,12.0,,radio/tv,1655.0,Very Low,Very Long,2.0,Male,none,4.0,real estate,63.0,none,own,2.0,Unqualified,1.0,yes,yes,good
+770,Low,24.0,,used car,2812.0,Unknown,Very Long,2.0,Female,none,4.0,real estate,26.0,none,rent,1.0,Qualified,1.0,none,yes,good
+771,Low,36.0,,education,8065.0,Very Low,Medium,3.0,Female,none,2.0,no known property,25.0,none,own,2.0,High Qualified,1.0,yes,yes,bad
+772,Unknown,21.0,,used car,3275.0,Very Low,Very Long,1.0,Male,none,4.0,car,36.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+773,Unknown,24.0,,radio/tv,2223.0,Low,Very Long,4.0,Male,none,4.0,life insurance,52.0,bank,own,2.0,Qualified,1.0,none,yes,good
+774,High,12.0,,new car,1480.0,Medium,,2.0,Male,none,4.0,no known property,66.0,bank,for free,3.0,Unemployed,1.0,none,yes,good
+775,Low,24.0,,new car,1371.0,Unknown,Medium,4.0,Female,none,4.0,real estate,25.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+776,Unknown,36.0,,new car,3535.0,Very Low,Long,4.0,Male,none,4.0,car,37.0,none,own,2.0,Qualified,1.0,yes,yes,good
+777,Low,18.0,,radio/tv,3509.0,Very Low,Long,4.0,Female,guarantor,1.0,real estate,25.0,none,own,1.0,Qualified,1.0,none,yes,good
+778,Unknown,36.0,,used car,5711.0,High,Very Long,4.0,Male,none,2.0,car,38.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+779,Medium,18.0,,repairs,3872.0,Very Low,,2.0,Female,none,4.0,car,67.0,none,own,1.0,Qualified,1.0,yes,yes,good
+780,Medium,39.0,,radio/tv,4933.0,Very Low,Long,2.0,Male,guarantor,2.0,real estate,25.0,none,own,2.0,Qualified,1.0,none,yes,bad
+781,Unknown,24.0,,new car,1940.0,High,Very Long,4.0,Male,none,4.0,real estate,60.0,none,own,1.0,Qualified,1.0,yes,yes,good
+782,Medium,12.0,no credits,retraining,1410.0,Very Low,Medium,2.0,Male,none,2.0,real estate,31.0,none,own,1.0,Unqualified,1.0,yes,yes,good
+783,Medium,12.0,,new car,836.0,Low,Short,4.0,Female,none,2.0,life insurance,23.0,bank,own,1.0,Unqualified,1.0,none,yes,bad
+784,Medium,20.0,,used car,6468.0,Unknown,,1.0,Male,none,4.0,real estate,60.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+785,Medium,18.0,,business,1941.0,High,Medium,4.0,Male,none,2.0,life insurance,35.0,none,own,1.0,Unqualified,1.0,yes,yes,good
+786,Unknown,22.0,,radio/tv,2675.0,Medium,Very Long,3.0,Male,none,4.0,car,40.0,none,own,1.0,Qualified,1.0,none,yes,good
+787,Unknown,48.0,,used car,2751.0,Unknown,Very Long,4.0,Male,none,3.0,car,38.0,none,own,2.0,Qualified,2.0,yes,yes,good
+788,Medium,48.0,,education,6224.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,50.0,none,for free,1.0,Qualified,1.0,none,yes,bad
+789,Low,40.0,,education,5998.0,Very Low,Medium,4.0,Male,none,3.0,no known property,27.0,bank,own,1.0,Qualified,1.0,yes,yes,bad
+790,Medium,21.0,,business,1188.0,Very Low,Very Long,2.0,Female,none,4.0,life insurance,39.0,none,own,1.0,Qualified,2.0,none,yes,bad
+791,Unknown,24.0,,used car,6313.0,Unknown,Very Long,3.0,Male,none,4.0,car,41.0,none,own,1.0,High Qualified,2.0,yes,yes,good
+792,Unknown,6.0,,furniture/equipment,1221.0,Unknown,Medium,1.0,Male,none,2.0,life insurance,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+793,High,24.0,,furniture/equipment,2892.0,Very Low,Very Long,3.0,Male,none,4.0,no known property,51.0,none,for free,1.0,Qualified,1.0,none,yes,good
+794,Unknown,24.0,,furniture/equipment,3062.0,Medium,Very Long,4.0,Male,none,3.0,no known property,32.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+795,Unknown,9.0,,furniture/equipment,2301.0,Low,Short,2.0,Female,none,4.0,life insurance,22.0,none,rent,1.0,Qualified,1.0,none,yes,good
+796,Low,18.0,,used car,7511.0,Unknown,Very Long,1.0,Male,none,4.0,life insurance,51.0,none,for free,1.0,Qualified,2.0,yes,yes,bad
+797,Unknown,12.0,,furniture/equipment,1258.0,Very Low,Short,2.0,Female,none,4.0,life insurance,22.0,none,rent,2.0,Unqualified,1.0,none,yes,good
+798,Unknown,24.0,,new car,717.0,Unknown,Very Long,4.0,Male,none,4.0,car,54.0,none,own,2.0,Qualified,1.0,yes,yes,good
+799,Medium,9.0,,new car,1549.0,Unknown,Short,4.0,Male,none,2.0,real estate,35.0,none,own,1.0,Unemployed,1.0,none,yes,good
+800,Unknown,24.0,,education,1597.0,Very Low,Very Long,4.0,Male,none,4.0,no known property,54.0,none,for free,2.0,Qualified,2.0,none,yes,good
+801,Medium,18.0,,radio/tv,1795.0,Very Low,Very Long,3.0,Female,guarantor,4.0,real estate,48.0,bank,rent,2.0,Unqualified,1.0,yes,yes,good
+802,Low,20.0,,furniture/equipment,4272.0,Very Low,Very Long,1.0,Female,none,4.0,life insurance,24.0,none,own,2.0,Qualified,1.0,none,yes,good
+803,Unknown,12.0,,radio/tv,976.0,Unknown,Very Long,4.0,Male,none,4.0,car,35.0,none,own,2.0,Qualified,1.0,none,yes,good
+804,Medium,12.0,,new car,7472.0,Unknown,,1.0,Female,none,2.0,real estate,24.0,none,rent,1.0,Unemployed,1.0,none,yes,good
+805,Low,36.0,,new car,9271.0,Very Low,Long,2.0,Male,none,1.0,car,24.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+806,Medium,6.0,,radio/tv,590.0,Very Low,Short,3.0,Male,none,3.0,real estate,26.0,none,own,1.0,Unqualified,1.0,none,no,good
+807,Unknown,12.0,,radio/tv,930.0,Unknown,Very Long,4.0,Male,none,4.0,real estate,65.0,none,own,4.0,Qualified,1.0,none,yes,good
+808,Medium,42.0,,used car,9283.0,Very Low,,1.0,Male,none,2.0,no known property,55.0,bank,for free,1.0,High Qualified,1.0,yes,yes,good
+809,Medium,15.0,no credits,new car,1778.0,Very Low,Short,2.0,Female,none,1.0,real estate,26.0,none,rent,2.0,Unemployed,1.0,none,yes,bad
+810,Medium,8.0,,business,907.0,Very Low,Short,3.0,Male,none,2.0,real estate,26.0,none,own,1.0,Qualified,1.0,yes,yes,good
+811,Medium,6.0,,radio/tv,484.0,Very Low,Long,3.0,Male,guarantor,3.0,real estate,28.0,bank,own,1.0,Unqualified,1.0,none,yes,good
+812,Low,36.0,,used car,9629.0,Very Low,Long,4.0,Male,none,4.0,car,24.0,none,own,2.0,Qualified,1.0,yes,yes,bad
+813,Low,48.0,,domestic appliance,3051.0,Very Low,Medium,3.0,Male,none,4.0,car,54.0,none,own,1.0,Qualified,1.0,none,yes,bad
+814,Low,48.0,,new car,3931.0,Very Low,Long,4.0,Male,none,4.0,no known property,46.0,none,for free,1.0,Qualified,2.0,none,yes,bad
+815,Medium,36.0,,new car,7432.0,Very Low,Medium,2.0,Female,none,2.0,life insurance,54.0,none,rent,1.0,Qualified,1.0,none,yes,good
+816,Unknown,6.0,,domestic appliance,1338.0,Medium,Medium,1.0,Male,none,4.0,real estate,62.0,none,own,1.0,Qualified,1.0,none,yes,good
+817,Unknown,6.0,,radio/tv,1554.0,Very Low,Long,1.0,Female,none,2.0,car,24.0,none,rent,2.0,Qualified,1.0,yes,yes,good
+818,Low,36.0,,other,15857.0,Very Low,,2.0,Male,co applicant,3.0,car,43.0,none,own,1.0,High Qualified,1.0,none,yes,good
+819,Low,18.0,,radio/tv,1345.0,Very Low,Medium,4.0,Male,none,3.0,real estate,26.0,bank,own,1.0,Qualified,1.0,none,yes,bad
+820,Unknown,12.0,,new car,1101.0,Very Low,Medium,3.0,Male,none,2.0,real estate,27.0,none,own,2.0,Qualified,1.0,yes,yes,good
+821,High,12.0,,radio/tv,3016.0,Very Low,Medium,3.0,Male,none,1.0,car,24.0,none,own,1.0,Qualified,1.0,none,yes,good
+822,Low,36.0,,furniture/equipment,2712.0,Very Low,Very Long,2.0,Male,none,2.0,life insurance,41.0,bank,own,1.0,Qualified,2.0,none,yes,bad
+823,Low,8.0,,new car,731.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,47.0,none,own,2.0,Unqualified,1.0,none,yes,good
+824,Unknown,18.0,,furniture/equipment,3780.0,Very Low,Short,3.0,Male,none,2.0,car,35.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+825,Low,21.0,,new car,1602.0,Very Low,Very Long,4.0,Male,none,3.0,car,30.0,none,own,2.0,Qualified,1.0,yes,yes,good
+826,Low,18.0,,new car,3966.0,Very Low,Very Long,1.0,Female,none,4.0,real estate,33.0,bank,rent,3.0,Qualified,1.0,yes,yes,bad
+827,Unknown,18.0,no credits,business,4165.0,Very Low,Medium,2.0,Male,none,2.0,car,36.0,stores,own,2.0,Qualified,2.0,none,yes,bad
+828,Low,36.0,,used car,8335.0,Unknown,Very Long,3.0,Male,none,4.0,no known property,47.0,none,for free,1.0,Qualified,1.0,none,yes,bad
+829,Medium,48.0,,business,6681.0,Unknown,Medium,4.0,Male,none,4.0,no known property,38.0,none,for free,1.0,Qualified,2.0,yes,yes,good
+830,Unknown,24.0,,business,2375.0,Medium,Medium,4.0,Male,none,2.0,car,44.0,none,own,2.0,Qualified,2.0,yes,yes,good
+831,Low,18.0,,new car,1216.0,Very Low,Short,4.0,Female,none,3.0,car,23.0,none,rent,1.0,Qualified,1.0,yes,yes,bad
+832,Low,45.0,no credits,business,11816.0,Very Low,Very Long,2.0,Male,none,4.0,car,29.0,none,rent,2.0,Qualified,1.0,none,yes,bad
+833,Medium,24.0,,radio/tv,5084.0,Unknown,Very Long,2.0,Female,none,4.0,car,42.0,none,own,1.0,Qualified,1.0,yes,yes,good
+834,High,15.0,,radio/tv,2327.0,Very Low,Short,2.0,Female,none,3.0,real estate,25.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+835,Low,12.0,no credits,new car,1082.0,Very Low,Medium,4.0,Male,none,4.0,car,48.0,bank,own,2.0,Qualified,1.0,none,yes,bad
+836,Unknown,12.0,,radio/tv,886.0,Unknown,Medium,4.0,Female,none,2.0,car,21.0,none,own,1.0,Qualified,1.0,none,yes,good
+837,Unknown,4.0,,furniture/equipment,601.0,Very Low,Short,1.0,Female,none,3.0,real estate,23.0,none,rent,1.0,Unqualified,2.0,none,yes,good
+838,Low,24.0,,used car,2957.0,Very Low,Very Long,4.0,Male,none,4.0,life insurance,63.0,none,own,2.0,Qualified,1.0,yes,yes,good
+839,Unknown,24.0,,radio/tv,2611.0,Very Low,Very Long,4.0,Male,co applicant,3.0,real estate,46.0,none,own,2.0,Qualified,1.0,none,yes,good
+840,Low,36.0,,furniture/equipment,5179.0,Very Low,Long,4.0,Male,none,2.0,life insurance,29.0,none,own,1.0,Qualified,1.0,none,yes,bad
+841,Unknown,21.0,,used car,2993.0,Very Low,Medium,3.0,Male,none,2.0,real estate,28.0,stores,own,2.0,Unqualified,1.0,none,yes,good
+842,Unknown,18.0,,repairs,1943.0,Very Low,Short,4.0,Female,none,4.0,real estate,23.0,none,own,1.0,Qualified,1.0,none,yes,bad
+843,Unknown,24.0,,business,1559.0,Very Low,Long,4.0,Male,none,4.0,car,50.0,bank,own,1.0,Qualified,1.0,yes,yes,good
+844,Unknown,18.0,,furniture/equipment,3422.0,Very Low,Very Long,4.0,Male,none,4.0,life insurance,47.0,bank,own,3.0,Qualified,2.0,yes,yes,good
+845,Medium,21.0,,furniture/equipment,3976.0,Unknown,Long,2.0,Male,none,3.0,car,35.0,none,own,1.0,Qualified,1.0,yes,yes,good
+846,Unknown,18.0,,new car,6761.0,Unknown,Medium,2.0,Male,none,4.0,car,68.0,none,rent,2.0,Qualified,1.0,none,yes,bad
+847,Unknown,24.0,,new car,1249.0,Very Low,Short,4.0,Male,none,2.0,real estate,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+848,Low,9.0,,radio/tv,1364.0,Very Low,Long,3.0,Male,none,4.0,real estate,59.0,none,own,1.0,Qualified,1.0,none,yes,good
+849,Low,12.0,,radio/tv,709.0,Very Low,Very Long,4.0,Male,none,4.0,real estate,57.0,stores,own,1.0,Unqualified,1.0,none,yes,bad
+850,Low,20.0,,new car,2235.0,Very Low,Medium,4.0,Male,guarantor,2.0,life insurance,33.0,bank,rent,2.0,Qualified,1.0,none,no,bad
+851,Unknown,24.0,,used car,4042.0,Unknown,Long,3.0,Male,none,4.0,life insurance,43.0,none,own,2.0,Qualified,1.0,yes,yes,good
+852,Unknown,15.0,,radio/tv,1471.0,Very Low,Medium,4.0,Male,none,4.0,no known property,35.0,none,for free,2.0,Qualified,1.0,yes,yes,good
+853,Low,18.0,,new car,1442.0,Very Low,Long,4.0,Male,none,4.0,no known property,32.0,none,for free,2.0,Unqualified,2.0,none,yes,bad
+854,Unknown,36.0,,new car,10875.0,Very Low,Very Long,2.0,Male,none,2.0,car,45.0,none,own,2.0,Qualified,2.0,yes,yes,good
+855,Unknown,24.0,,new car,1474.0,Low,Short,4.0,Male,none,3.0,real estate,33.0,none,own,1.0,Qualified,1.0,yes,yes,good
+856,Unknown,10.0,,retraining,894.0,Unknown,Long,4.0,Female,none,3.0,life insurance,40.0,none,own,1.0,Qualified,1.0,yes,yes,good
+857,Unknown,15.0,,furniture/equipment,3343.0,Very Low,Medium,4.0,Male,none,2.0,no known property,28.0,none,for free,1.0,Qualified,1.0,yes,yes,good
+858,Low,15.0,,new car,3959.0,Very Low,Medium,3.0,Female,none,2.0,life insurance,29.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+859,Unknown,9.0,,new car,3577.0,Low,Medium,1.0,Male,guarantor,2.0,real estate,26.0,none,rent,1.0,Qualified,2.0,none,no,good
+860,Unknown,24.0,,used car,5804.0,High,Medium,4.0,Male,none,2.0,real estate,27.0,none,own,2.0,Qualified,1.0,none,yes,good
+861,Unknown,18.0,,business,2169.0,Very Low,Medium,4.0,Male,none,2.0,car,28.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+862,Low,24.0,,radio/tv,2439.0,Very Low,Short,4.0,Female,none,4.0,real estate,35.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+863,Unknown,27.0,,furniture/equipment,4526.0,High,Short,4.0,Male,none,2.0,real estate,32.0,stores,own,2.0,Unqualified,2.0,yes,yes,good
+864,Unknown,10.0,,furniture/equipment,2210.0,Very Low,Medium,2.0,Male,none,2.0,real estate,25.0,bank,rent,1.0,Unqualified,1.0,none,yes,bad
+865,Unknown,15.0,,furniture/equipment,2221.0,Medium,Medium,2.0,Female,none,4.0,car,20.0,none,rent,1.0,Qualified,1.0,none,yes,good
+866,Low,18.0,,radio/tv,2389.0,Very Low,Short,4.0,Female,none,1.0,car,27.0,stores,own,1.0,Qualified,1.0,none,yes,good
+867,Unknown,12.0,,furniture/equipment,3331.0,Very Low,Very Long,2.0,Male,none,4.0,life insurance,42.0,stores,own,1.0,Qualified,1.0,none,yes,good
+868,Unknown,36.0,,business,7409.0,Unknown,Very Long,3.0,Male,none,2.0,life insurance,37.0,none,own,2.0,Qualified,1.0,none,yes,good
+869,Low,12.0,,furniture/equipment,652.0,Very Low,Very Long,4.0,Female,none,4.0,life insurance,24.0,none,rent,1.0,Qualified,1.0,none,yes,good
+870,Unknown,36.0,,furniture/equipment,7678.0,Medium,Long,2.0,Female,none,4.0,car,40.0,none,own,2.0,Qualified,1.0,yes,yes,good
+871,High,6.0,,new car,1343.0,Very Low,Very Long,1.0,Male,none,4.0,real estate,46.0,none,own,2.0,Qualified,2.0,none,no,good
+872,Low,24.0,,business,1382.0,Low,Long,4.0,Male,none,1.0,real estate,26.0,none,own,2.0,Qualified,1.0,yes,yes,good
+873,Unknown,15.0,,domestic appliance,874.0,Unknown,Short,4.0,Female,none,1.0,real estate,24.0,none,own,1.0,Qualified,1.0,none,yes,good
+874,Low,12.0,,furniture/equipment,3590.0,Very Low,Medium,2.0,Male,co applicant,2.0,life insurance,29.0,none,own,1.0,Unqualified,2.0,none,yes,good
+875,Medium,11.0,,new car,1322.0,High,Medium,4.0,Female,none,4.0,car,40.0,none,own,2.0,Qualified,1.0,none,yes,good
+876,Low,18.0,,radio/tv,1940.0,Very Low,Short,3.0,Male,co applicant,4.0,no known property,36.0,bank,for free,1.0,High Qualified,1.0,yes,yes,good
+877,Unknown,36.0,,radio/tv,3595.0,Very Low,Very Long,4.0,Male,none,2.0,car,28.0,none,own,1.0,Qualified,1.0,none,yes,good
+878,Low,9.0,,new car,1422.0,Very Low,Short,3.0,Male,none,2.0,no known property,27.0,none,for free,1.0,High Qualified,1.0,yes,yes,bad
+879,Unknown,30.0,,radio/tv,6742.0,Unknown,Long,2.0,Male,none,3.0,life insurance,36.0,none,own,2.0,Qualified,1.0,none,yes,good
+880,Unknown,24.0,,used car,7814.0,Very Low,Long,3.0,Male,none,3.0,car,38.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+881,Unknown,24.0,,used car,9277.0,Unknown,Medium,2.0,Male,none,4.0,no known property,48.0,none,for free,1.0,Qualified,1.0,yes,yes,good
+882,Medium,30.0,,new car,2181.0,Unknown,Very Long,4.0,Male,none,4.0,real estate,36.0,none,own,2.0,Qualified,1.0,none,yes,good
+883,Unknown,18.0,,radio/tv,1098.0,Very Low,,4.0,Female,none,4.0,car,65.0,none,own,2.0,Unemployed,1.0,none,yes,good
+884,Medium,24.0,,furniture/equipment,4057.0,Very Low,Long,3.0,Male,none,3.0,car,43.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+885,Low,12.0,,education,795.0,Very Low,Short,4.0,Female,none,4.0,life insurance,53.0,none,own,1.0,Qualified,1.0,none,yes,bad
+886,Medium,24.0,,business,2825.0,Unknown,Long,4.0,Male,none,3.0,no known property,34.0,none,own,2.0,Qualified,2.0,yes,yes,good
+887,Medium,48.0,,business,15672.0,Very Low,Medium,2.0,Male,none,2.0,car,23.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+888,Unknown,36.0,,new car,6614.0,Very Low,Very Long,4.0,Male,none,4.0,car,34.0,none,own,2.0,High Qualified,1.0,yes,yes,good
+889,Unknown,28.0,,used car,7824.0,Unknown,Short,3.0,Male,guarantor,4.0,real estate,40.0,bank,rent,2.0,Qualified,2.0,yes,yes,good
+890,Low,27.0,,business,2442.0,Very Low,Very Long,4.0,Male,none,4.0,car,43.0,stores,own,4.0,High Qualified,2.0,yes,yes,good
+891,Unknown,15.0,,radio/tv,1829.0,Very Low,Very Long,4.0,Male,none,4.0,car,46.0,none,own,2.0,Qualified,1.0,yes,yes,good
+892,Low,12.0,,new car,2171.0,Very Low,Medium,4.0,Male,none,4.0,life insurance,38.0,bank,own,2.0,Unqualified,1.0,none,no,good
+893,Medium,36.0,,used car,5800.0,Very Low,Medium,3.0,Male,none,4.0,car,34.0,none,own,2.0,Qualified,1.0,yes,yes,good
+894,Unknown,18.0,,radio/tv,1169.0,Unknown,Medium,4.0,Male,none,3.0,life insurance,29.0,none,own,2.0,Qualified,1.0,yes,yes,good
+895,Unknown,36.0,,used car,8947.0,Unknown,Long,3.0,Male,none,2.0,car,31.0,stores,own,1.0,High Qualified,2.0,yes,yes,good
+896,Low,21.0,,radio/tv,2606.0,Very Low,Short,4.0,Female,none,4.0,life insurance,28.0,none,rent,1.0,High Qualified,1.0,yes,yes,good
+897,Unknown,12.0,,furniture/equipment,1592.0,High,Long,3.0,Female,none,2.0,life insurance,35.0,none,own,1.0,Qualified,1.0,none,no,good
+898,Unknown,15.0,,furniture/equipment,2186.0,Unknown,Long,1.0,Female,none,4.0,real estate,33.0,bank,rent,1.0,Unqualified,1.0,none,yes,good
+899,Low,18.0,,furniture/equipment,4153.0,Very Low,Medium,2.0,Male,co applicant,3.0,car,42.0,none,own,1.0,Qualified,1.0,none,yes,bad
+900,Low,16.0,,new car,2625.0,Very Low,Very Long,2.0,Male,guarantor,4.0,life insurance,43.0,bank,rent,1.0,Qualified,1.0,yes,yes,bad
+901,Unknown,20.0,,new car,3485.0,Unknown,Short,2.0,Male,none,4.0,real estate,44.0,none,own,2.0,Qualified,1.0,yes,yes,good
+902,Unknown,36.0,,used car,10477.0,Unknown,Very Long,2.0,Male,none,4.0,no known property,42.0,none,for free,2.0,Qualified,1.0,none,yes,good
+903,Unknown,15.0,,radio/tv,1386.0,Unknown,Medium,4.0,Male,none,2.0,real estate,40.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+904,Unknown,24.0,,radio/tv,1278.0,Very Low,Very Long,4.0,Male,none,1.0,real estate,36.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+905,Low,12.0,,radio/tv,1107.0,Very Low,Medium,2.0,Male,none,2.0,real estate,20.0,none,rent,1.0,High Qualified,2.0,yes,yes,good
+906,Low,21.0,,new car,3763.0,Unknown,Long,2.0,Male,co applicant,2.0,real estate,24.0,none,own,1.0,Unqualified,1.0,none,no,good
+907,Medium,36.0,,education,3711.0,Unknown,Medium,2.0,Male,none,2.0,car,27.0,none,own,1.0,Qualified,1.0,none,yes,good
+908,Unknown,15.0,,used car,3594.0,Very Low,Short,1.0,Female,none,2.0,life insurance,46.0,none,own,2.0,Unqualified,1.0,none,yes,good
+909,Medium,9.0,,new car,3195.0,Unknown,Medium,1.0,Female,none,2.0,real estate,33.0,none,own,1.0,Unqualified,1.0,none,yes,good
+910,Unknown,36.0,,radio/tv,4454.0,Very Low,Medium,4.0,Female,none,4.0,real estate,34.0,none,own,2.0,Qualified,1.0,none,yes,good
+911,Medium,24.0,,furniture/equipment,4736.0,Very Low,Short,2.0,Female,none,4.0,car,25.0,bank,own,1.0,Unqualified,1.0,none,yes,bad
+912,Medium,30.0,,radio/tv,2991.0,Unknown,Very Long,2.0,Female,none,4.0,car,25.0,none,own,1.0,Qualified,1.0,none,yes,good
+913,Unknown,11.0,,business,2142.0,High,Very Long,1.0,Male,none,2.0,real estate,28.0,none,own,1.0,Qualified,1.0,yes,yes,good
+914,Low,24.0,,business,3161.0,Very Low,Medium,4.0,Male,none,2.0,life insurance,31.0,none,rent,1.0,Qualified,1.0,yes,yes,bad
+915,Medium,48.0,no credits,other,18424.0,Very Low,Medium,1.0,Female,none,2.0,life insurance,32.0,bank,own,1.0,High Qualified,1.0,yes,no,bad
+916,Unknown,10.0,,used car,2848.0,Low,Medium,1.0,Male,co applicant,2.0,real estate,32.0,none,own,1.0,Qualified,2.0,none,yes,good
+917,Low,6.0,,new car,14896.0,Very Low,Very Long,1.0,Male,none,4.0,no known property,68.0,bank,own,1.0,High Qualified,1.0,yes,yes,bad
+918,Low,24.0,,furniture/equipment,2359.0,Low,,1.0,Male,none,1.0,life insurance,33.0,none,own,1.0,Qualified,1.0,none,yes,bad
+919,Low,24.0,,furniture/equipment,3345.0,Very Low,Very Long,4.0,Male,none,2.0,life insurance,39.0,none,rent,1.0,High Qualified,1.0,yes,yes,bad
+920,Unknown,18.0,,furniture/equipment,1817.0,Very Low,Medium,4.0,Female,none,2.0,no known property,28.0,none,own,2.0,Qualified,1.0,none,yes,good
+921,Unknown,48.0,,radio/tv,12749.0,Medium,Long,4.0,Male,none,1.0,car,37.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+922,Low,9.0,,radio/tv,1366.0,Very Low,Short,3.0,Female,none,4.0,life insurance,22.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+923,Medium,12.0,,new car,2002.0,Very Low,Long,3.0,Male,none,4.0,life insurance,30.0,none,rent,1.0,Qualified,2.0,yes,yes,good
+924,Low,24.0,,furniture/equipment,6872.0,Very Low,Short,2.0,Male,none,1.0,life insurance,55.0,bank,own,1.0,Qualified,1.0,yes,yes,bad
+925,Low,12.0,,new car,697.0,Very Low,Short,4.0,Male,none,2.0,car,46.0,bank,own,2.0,Qualified,1.0,yes,yes,bad
+926,Low,18.0,,furniture/equipment,1049.0,Very Low,Short,4.0,Female,none,4.0,life insurance,21.0,none,rent,1.0,Qualified,1.0,none,yes,good
+927,Low,48.0,,used car,10297.0,Very Low,Long,4.0,Male,none,4.0,no known property,39.0,stores,for free,3.0,Qualified,2.0,yes,yes,bad
+928,Unknown,30.0,,radio/tv,1867.0,Unknown,Very Long,4.0,Male,none,4.0,car,58.0,none,own,1.0,Qualified,1.0,yes,yes,good
+929,Low,12.0,,new car,1344.0,Very Low,Medium,4.0,Male,none,2.0,real estate,43.0,none,own,2.0,Unqualified,2.0,none,yes,good
+930,Low,24.0,,furniture/equipment,1747.0,Very Low,Short,4.0,Male,co applicant,1.0,life insurance,24.0,none,own,1.0,Unqualified,1.0,none,no,good
+931,Medium,9.0,,radio/tv,1670.0,Very Low,Short,4.0,Female,none,2.0,car,22.0,none,own,1.0,Qualified,1.0,yes,yes,bad
+932,Unknown,9.0,,new car,1224.0,Very Low,Medium,3.0,Male,none,1.0,real estate,30.0,none,own,2.0,Qualified,1.0,none,yes,good
+933,Unknown,12.0,,radio/tv,522.0,Medium,Very Long,4.0,Male,none,4.0,life insurance,42.0,none,own,2.0,Qualified,2.0,yes,yes,good
+934,Low,12.0,,radio/tv,1498.0,Very Low,Medium,4.0,Female,none,1.0,car,23.0,bank,own,1.0,Qualified,1.0,none,yes,good
+935,Medium,30.0,,radio/tv,1919.0,Low,Short,4.0,Male,none,3.0,no known property,30.0,stores,own,2.0,High Qualified,1.0,none,yes,bad
+936,High,9.0,,radio/tv,745.0,Very Low,Medium,3.0,Female,none,2.0,real estate,28.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+937,Medium,6.0,,radio/tv,2063.0,Very Low,Short,4.0,Male,none,3.0,car,30.0,none,rent,1.0,High Qualified,1.0,yes,yes,good
+938,Medium,60.0,,education,6288.0,Very Low,Medium,4.0,Male,none,4.0,no known property,42.0,none,for free,1.0,Qualified,1.0,none,yes,bad
+939,Unknown,24.0,,used car,6842.0,Unknown,Medium,2.0,Male,none,4.0,life insurance,46.0,none,own,2.0,High Qualified,2.0,yes,yes,good
+940,Unknown,12.0,,new car,3527.0,Unknown,Short,2.0,Male,none,3.0,life insurance,45.0,none,own,1.0,High Qualified,2.0,yes,yes,good
+941,Unknown,10.0,,new car,1546.0,Very Low,Medium,3.0,Male,none,2.0,real estate,31.0,none,own,1.0,Unqualified,2.0,none,no,good
+942,Unknown,24.0,,furniture/equipment,929.0,Unknown,Long,4.0,Male,none,2.0,car,31.0,stores,own,1.0,Qualified,1.0,yes,yes,good
+943,Unknown,4.0,,new car,1455.0,Very Low,Long,2.0,Male,none,1.0,real estate,42.0,none,own,3.0,Unqualified,2.0,none,yes,good
+944,Low,15.0,,furniture/equipment,1845.0,Very Low,Short,4.0,Female,guarantor,1.0,life insurance,46.0,none,rent,1.0,Qualified,1.0,none,yes,good
+945,Medium,48.0,no credits,new car,8358.0,Medium,Short,1.0,Female,none,1.0,car,30.0,none,own,2.0,Qualified,1.0,none,yes,good
+946,Low,24.0,,furniture/equipment,3349.0,Medium,Short,4.0,Male,none,4.0,no known property,30.0,none,for free,1.0,Qualified,2.0,yes,yes,bad
+947,Unknown,12.0,,new car,2859.0,Unknown,,4.0,Male,none,4.0,no known property,38.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+948,Unknown,18.0,,furniture/equipment,1533.0,Very Low,Short,4.0,Male,co applicant,1.0,life insurance,43.0,none,own,1.0,Unqualified,2.0,none,yes,bad
+949,Unknown,24.0,,radio/tv,3621.0,Low,Very Long,2.0,Male,none,4.0,car,31.0,none,own,2.0,Qualified,1.0,none,yes,bad
+950,Medium,18.0,,business,3590.0,Very Low,,3.0,Male,none,3.0,car,40.0,none,own,3.0,Unemployed,2.0,yes,yes,good
+951,Low,36.0,,business,2145.0,Very Low,Long,2.0,Male,none,1.0,car,24.0,none,own,2.0,Qualified,1.0,yes,yes,bad
+952,Medium,24.0,,used car,4113.0,Medium,Short,3.0,Female,none,4.0,car,28.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+953,Unknown,36.0,,furniture/equipment,10974.0,Very Low,,4.0,Female,none,2.0,car,26.0,none,own,2.0,High Qualified,1.0,yes,yes,bad
+954,Low,12.0,,new car,1893.0,Very Low,Medium,4.0,Female,guarantor,4.0,life insurance,29.0,none,own,1.0,Qualified,1.0,yes,yes,good
+955,Low,24.0,,radio/tv,1231.0,High,Very Long,4.0,Female,none,4.0,life insurance,57.0,none,rent,2.0,High Qualified,1.0,yes,yes,good
+956,High,30.0,,radio/tv,3656.0,Unknown,Very Long,4.0,Male,none,4.0,life insurance,49.0,stores,own,2.0,Unqualified,1.0,none,yes,good
+957,Medium,9.0,,radio/tv,1154.0,Very Low,Very Long,2.0,Male,none,4.0,real estate,37.0,none,own,3.0,Unqualified,1.0,none,yes,good
+958,Low,28.0,,new car,4006.0,Very Low,Medium,3.0,Male,none,2.0,car,45.0,none,own,1.0,Unqualified,1.0,none,yes,bad
+959,Medium,24.0,,furniture/equipment,3069.0,Low,Very Long,4.0,Male,none,4.0,no known property,30.0,none,for free,1.0,Qualified,1.0,none,yes,good
+960,Unknown,6.0,,radio/tv,1740.0,Very Low,Very Long,2.0,Male,none,2.0,real estate,30.0,none,rent,2.0,Qualified,1.0,none,yes,good
+961,Medium,21.0,,new car,2353.0,Very Low,Medium,1.0,Male,none,4.0,life insurance,47.0,none,own,2.0,Qualified,1.0,none,yes,good
+962,Unknown,15.0,,new car,3556.0,Unknown,Medium,3.0,Male,none,2.0,no known property,29.0,none,own,1.0,Qualified,1.0,none,yes,good
+963,Unknown,24.0,,radio/tv,2397.0,Medium,Very Long,3.0,Male,none,2.0,car,35.0,bank,own,2.0,Qualified,1.0,yes,yes,bad
+964,Medium,6.0,,repairs,454.0,Very Low,Short,3.0,Male,none,1.0,life insurance,22.0,none,own,1.0,Unqualified,1.0,none,yes,good
+965,Medium,30.0,,radio/tv,1715.0,Unknown,Medium,4.0,Female,none,1.0,car,26.0,none,own,1.0,Qualified,1.0,none,yes,good
+966,Medium,27.0,,radio/tv,2520.0,Medium,Medium,4.0,Male,none,2.0,life insurance,23.0,none,own,2.0,Unqualified,1.0,none,yes,bad
+967,Unknown,15.0,,radio/tv,3568.0,Very Low,Very Long,4.0,Female,none,2.0,car,54.0,bank,rent,1.0,High Qualified,1.0,yes,yes,good
+968,Unknown,42.0,,radio/tv,7166.0,Unknown,Long,2.0,Male,none,4.0,life insurance,29.0,none,rent,1.0,Qualified,1.0,yes,yes,good
+969,Low,11.0,,new car,3939.0,Very Low,Medium,1.0,Male,none,2.0,real estate,40.0,none,own,2.0,Unqualified,2.0,none,yes,good
+970,Medium,15.0,,repairs,1514.0,Low,Medium,4.0,Male,guarantor,2.0,real estate,22.0,none,own,1.0,Qualified,1.0,none,yes,good
+971,Unknown,24.0,,new car,7393.0,Very Low,Medium,1.0,Male,none,4.0,life insurance,43.0,none,own,1.0,Unqualified,2.0,none,yes,good
+972,Low,24.0,,new car,1193.0,Very Low,,1.0,Female,co applicant,4.0,no known property,29.0,none,rent,2.0,Unemployed,1.0,none,yes,bad
+973,Low,60.0,,business,7297.0,Very Low,Very Long,4.0,Male,co applicant,4.0,no known property,36.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+974,Unknown,30.0,,radio/tv,2831.0,Very Low,Medium,4.0,Female,none,2.0,car,33.0,none,own,1.0,Qualified,1.0,yes,yes,good
+975,High,24.0,,radio/tv,1258.0,Medium,Medium,3.0,Female,none,3.0,car,57.0,none,own,1.0,Unqualified,1.0,none,yes,good
+976,Medium,6.0,,radio/tv,753.0,Very Low,Medium,2.0,Female,guarantor,3.0,real estate,64.0,none,own,1.0,Qualified,1.0,none,yes,good
+977,Medium,18.0,,business,2427.0,Unknown,Very Long,4.0,Male,none,2.0,life insurance,42.0,none,own,2.0,Qualified,1.0,none,yes,good
+978,Unknown,24.0,,new car,2538.0,Very Low,Very Long,4.0,Male,none,4.0,car,47.0,none,own,2.0,Unqualified,2.0,none,yes,bad
+979,Medium,15.0,,new car,1264.0,Low,Medium,2.0,Male,none,2.0,life insurance,25.0,none,rent,1.0,Qualified,1.0,none,yes,bad
+980,Medium,30.0,,furniture/equipment,8386.0,Very Low,Long,2.0,Male,none,2.0,life insurance,49.0,none,own,1.0,Qualified,1.0,none,yes,bad
+981,Unknown,48.0,,business,4844.0,Very Low,,3.0,Male,none,2.0,car,33.0,bank,rent,1.0,High Qualified,1.0,yes,yes,bad
+982,High,21.0,,new car,2923.0,Low,Medium,1.0,Female,none,1.0,car,28.0,bank,own,1.0,High Qualified,1.0,yes,yes,good
+983,Low,36.0,,used car,8229.0,Very Low,Medium,2.0,Male,none,2.0,life insurance,26.0,none,own,1.0,Qualified,2.0,none,yes,bad
+984,Unknown,24.0,,furniture/equipment,2028.0,Very Low,Long,2.0,Male,none,2.0,life insurance,30.0,none,own,2.0,Unqualified,1.0,none,yes,good
+985,Low,15.0,,furniture/equipment,1433.0,Very Low,Medium,4.0,Female,none,3.0,life insurance,25.0,none,rent,2.0,Qualified,1.0,none,yes,good
+986,High,42.0,no credits,business,6289.0,Very Low,Short,2.0,Male,none,1.0,life insurance,33.0,none,own,2.0,Qualified,1.0,none,yes,good
+987,Unknown,13.0,,radio/tv,1409.0,Low,,2.0,Female,none,4.0,real estate,64.0,none,own,1.0,Qualified,1.0,none,yes,good
+988,Low,24.0,,used car,6579.0,Very Low,,4.0,Male,none,2.0,no known property,29.0,none,for free,1.0,High Qualified,1.0,yes,yes,good
+989,Medium,24.0,,radio/tv,1743.0,Very Low,Very Long,4.0,Male,none,2.0,life insurance,48.0,none,own,2.0,Unqualified,1.0,none,yes,good
+990,Unknown,12.0,,education,3565.0,Unknown,Short,2.0,Male,none,1.0,life insurance,37.0,none,own,2.0,Unqualified,2.0,none,yes,good
+991,Unknown,15.0,,radio/tv,1569.0,Low,Very Long,4.0,Male,none,4.0,car,34.0,bank,own,1.0,Unqualified,2.0,none,yes,good
+992,Low,18.0,,radio/tv,1936.0,Unknown,Long,2.0,Male,none,4.0,car,23.0,none,rent,2.0,Unqualified,1.0,none,yes,good
+993,Low,36.0,,furniture/equipment,3959.0,Very Low,,4.0,Male,none,3.0,life insurance,30.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+994,Unknown,12.0,,new car,2390.0,Unknown,Very Long,4.0,Male,none,3.0,car,50.0,none,own,1.0,Qualified,1.0,yes,yes,good
+995,Unknown,12.0,,furniture/equipment,1736.0,Very Low,Long,3.0,Female,none,4.0,real estate,31.0,none,own,1.0,Unqualified,1.0,none,yes,good
+996,Low,30.0,,used car,3857.0,Very Low,Medium,4.0,Male,none,4.0,life insurance,40.0,none,own,1.0,High Qualified,1.0,yes,yes,good
+997,Unknown,12.0,,radio/tv,804.0,Very Low,Very Long,4.0,Male,none,4.0,car,38.0,none,own,1.0,Qualified,1.0,none,yes,good
+998,Low,45.0,,radio/tv,1845.0,Very Low,Medium,4.0,Male,none,4.0,no known property,23.0,none,for free,1.0,Qualified,1.0,yes,yes,bad
+999,Medium,45.0,,used car,4576.0,Low,,3.0,Male,none,4.0,car,27.0,none,own,1.0,Qualified,1.0,none,yes,good
