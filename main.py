@@ -68,3 +68,8 @@ plt.tight_layout()
 plt.show()
 
 ### Effect of age and length of credit on credit quality ###
+# age, duration (in years),class - credit quality
+
+credit_quality = df.groupby('class')
+print(credit_quality.describe())
+print(credit_quality[['age','duration']].value_counts().loc['good'])
