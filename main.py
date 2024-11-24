@@ -59,7 +59,7 @@ sorted_data.boxplot(column='credit_amount', by='purpose', vert=False, grid=True,
 
 # Plot Adjustments
 plt.title('Distribution of loan amounts by purpose')
-plt.suptitle('')  # Usunięcie domyślnego tytułu nad wykresem
+plt.suptitle('')
 plt.xlabel('Credit amount')
 plt.ylabel('Purpose of the credit')
 plt.tight_layout()
