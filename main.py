@@ -66,3 +66,5 @@ plt.tight_layout()
 
 # Show plot
 plt.show()
+
+### Effect of age and length of credit on credit quality ###
